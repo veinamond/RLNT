@@ -1,0 +1,6 @@
+#!/bin/sh
+cd sources/simp
+rm ../../bin/RLNT
+make clean
+make rs
+cp glucose_static ../../bin/RLNT
