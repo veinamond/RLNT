@@ -1,0 +1,3284 @@
+{
+    "preamble": {
+        "program": "RC2",
+        "prog_alias": "RC2-B$_{{2016}}$",
+        "prog_args": "",
+        "oracle": "2016",
+        "benchmark": "unweighted/single_machine_scheduling",
+        "runsolver_args": ""
+    },
+    "stats": {
+        "unweighted/single_machine_scheduling/20-500-26.wcnf.xz": {
+            "status": true,
+            "rtime": 10.1446,
+            "mempeak": "430204 KiB",
+            "cost": 168
+        },
+        "unweighted/single_machine_scheduling/20-100-lambda100-49.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "496260 KiB"
+        },
+        "unweighted/single_machine_scheduling/20-100-p100-52.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "885820 KiB"
+        },
+        "unweighted/single_machine_scheduling/20-100-frag12-32.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "717580 KiB"
+        },
+        "unweighted/single_machine_scheduling/20-100-p100-71.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "778368 KiB"
+        },
+        "unweighted/single_machine_scheduling/20-100-frag12-57.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "758912 KiB"
+        },
+        "unweighted/single_machine_scheduling/20-100-frag12-53.wcnf.xz": {
+            "status": true,
+            "rtime": 386.797,
+            "mempeak": "560616 KiB",
+            "cost": 42
+        },
+        "unweighted/single_machine_scheduling/20-500-33.wcnf.xz": {
+            "status": true,
+            "rtime": 11.8699,
+            "mempeak": "434252 KiB",
+            "cost": 177
+        },
+        "unweighted/single_machine_scheduling/20-100-frag12-14.wcnf.xz": {
+            "status": true,
+            "rtime": 383.818,
+            "mempeak": "530616 KiB",
+            "cost": 43
+        },
+        "unweighted/single_machine_scheduling/20-100-frag12-18.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "666444 KiB"
+        },
+        "unweighted/single_machine_scheduling/20-100-p100-32.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "843832 KiB"
+        },
+        "unweighted/single_machine_scheduling/20-100-p100-4.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "863920 KiB"
+        },
+        "unweighted/single_machine_scheduling/20-500-95.wcnf.xz": {
+            "status": true,
+            "rtime": 7.94668,
+            "mempeak": "433612 KiB",
+            "cost": 166
+        },
+        "unweighted/single_machine_scheduling/20-500-42.wcnf.xz": {
+            "status": true,
+            "rtime": 7.98596,
+            "mempeak": "433376 KiB",
+            "cost": 185
+        },
+        "unweighted/single_machine_scheduling/20-100-lambda100-76.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "511900 KiB"
+        },
+        "unweighted/single_machine_scheduling/20-100-p100-61.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "771208 KiB"
+        },
+        "unweighted/single_machine_scheduling/20-100-lambda100-65.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "463056 KiB"
+        },
+        "unweighted/single_machine_scheduling/20-100-p100-55.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "762384 KiB"
+        },
+        "unweighted/single_machine_scheduling/20-500-76.wcnf.xz": {
+            "status": true,
+            "rtime": 24.3182,
+            "mempeak": "436912 KiB",
+            "cost": 174
+        },
+        "unweighted/single_machine_scheduling/20-100-frag12-58.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "687008 KiB"
+        },
+        "unweighted/single_machine_scheduling/20-100-p100-28.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "927592 KiB"
+        },
+        "unweighted/single_machine_scheduling/20-100-lambda100-14.wcnf.xz": {
+            "status": true,
+            "rtime": 2500.94,
+            "mempeak": "452172 KiB",
+            "cost": 75
+        },
+        "unweighted/single_machine_scheduling/20-100-frag12-0.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "674696 KiB"
+        },
+        "unweighted/single_machine_scheduling/20-100-lambda100-89.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "457120 KiB"
+        },
+        "unweighted/single_machine_scheduling/20-100-lambda100-56.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "510708 KiB"
+        },
+        "unweighted/single_machine_scheduling/20-500-62.wcnf.xz": {
+            "status": true,
+            "rtime": 8.6599,
+            "mempeak": "431704 KiB",
+            "cost": 163
+        },
+        "unweighted/single_machine_scheduling/20-100-frag12-38.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "712108 KiB"
+        },
+        "unweighted/single_machine_scheduling/20-100-lambda100-47.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "458388 KiB"
+        },
+        "unweighted/single_machine_scheduling/20-100-lambda100-43.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "504008 KiB"
+        },
+        "unweighted/single_machine_scheduling/20-500-35.wcnf.xz": {
+            "status": true,
+            "rtime": 11.7225,
+            "mempeak": "437428 KiB",
+            "cost": 182
+        },
+        "unweighted/packup/rand695_l2.wcnf.xz": {
+            "status": true,
+            "rtime": 3.83544,
+            "mempeak": "396448 KiB",
+            "cost": 974
+        },
+        "unweighted/packup/ff4a1d84-d490-11df-9e6c-00163e3d3b7c_l3.wcnf.xz": {
+            "status": true,
+            "rtime": 13.5591,
+            "mempeak": "413512 KiB",
+            "cost": 2236
+        },
+        "unweighted/packup/rand484_l2.wcnf.xz": {
+            "status": true,
+            "rtime": 3.61857,
+            "mempeak": "403172 KiB",
+            "cost": 331
+        },
+        "unweighted/packup/rand954_l2.wcnf.xz": {
+            "status": true,
+            "rtime": 4.85749,
+            "mempeak": "403412 KiB",
+            "cost": 700
+        },
+        "unweighted/packup/7f80e4f0-4fe9-11e0-acd7-00163e1e087d_l3.wcnf.xz": {
+            "status": true,
+            "rtime": 10.0822,
+            "mempeak": "399152 KiB",
+            "cost": 404
+        },
+        "unweighted/packup/rand984_l2.wcnf.xz": {
+            "status": true,
+            "rtime": 6.36346,
+            "mempeak": "404256 KiB",
+            "cost": 839
+        },
+        "unweighted/packup/rand892_l2.wcnf.xz": {
+            "status": true,
+            "rtime": 4.49186,
+            "mempeak": "396992 KiB",
+            "cost": 1119
+        },
+        "unweighted/packup/rand874_l2.wcnf.xz": {
+            "status": true,
+            "rtime": 6.442,
+            "mempeak": "402488 KiB",
+            "cost": 863
+        },
+        "unweighted/packup/2c3aece6-c8b2-11df-a040-00163e3d3b7c_l3.wcnf.xz": {
+            "status": true,
+            "rtime": 31.7202,
+            "mempeak": "408252 KiB",
+            "cost": 814
+        },
+        "unweighted/packup/rand209_l2.wcnf.xz": {
+            "status": true,
+            "rtime": 6.74487,
+            "mempeak": "403468 KiB",
+            "cost": 1199
+        },
+        "unweighted/packup/rand172_l2.wcnf.xz": {
+            "status": true,
+            "rtime": 5.41199,
+            "mempeak": "403640 KiB",
+            "cost": 670
+        },
+        "unweighted/MaximumCommonSub-GraphExtraction/g2_n122e140_n368e460.wcnf.xz": {
+            "status": true,
+            "rtime": 71.5628,
+            "mempeak": "1120112 KiB",
+            "cost": 80
+        },
+        "unweighted/MaximumCommonSub-GraphExtraction/g2_n56e57_n61e85.wcnf.xz": {
+            "status": true,
+            "rtime": 34.4233,
+            "mempeak": "352128 KiB",
+            "cost": 39
+        },
+        "unweighted/MaximumCommonSub-GraphExtraction/g2_n116e116_n197e197.wcnf.xz": {
+            "status": true,
+            "rtime": 107.852,
+            "mempeak": "1654620 KiB",
+            "cost": 44
+        },
+        "unweighted/MaximumCommonSub-GraphExtraction/g2_n45e48_n53e64.wcnf.xz": {
+            "status": true,
+            "rtime": 33.4499,
+            "mempeak": "357168 KiB",
+            "cost": 34
+        },
+        "unweighted/MaximumCommonSub-GraphExtraction/g2_n15e13_n22e31.wcnf.xz": {
+            "status": true,
+            "rtime": 106.647,
+            "mempeak": "351116 KiB",
+            "cost": 5
+        },
+        "unweighted/MaximumCommonSub-GraphExtraction/g3_n55e66_n56e66_n89e110.wcnf.xz": {
+            "status": true,
+            "rtime": 14.947,
+            "mempeak": "408704 KiB",
+            "cost": 47
+        },
+        "unweighted/MaximumCommonSub-GraphExtraction/g3_n116e116_n161e163_n197e197.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "2653120 KiB"
+        },
+        "unweighted/MaximumCommonSub-GraphExtraction/g3_n57e75_n59e78_n65e72.wcnf.xz": {
+            "status": true,
+            "rtime": 19.9011,
+            "mempeak": "402660 KiB",
+            "cost": 49
+        },
+        "unweighted/uaq/uaq-ppr-nr200-nc66-n5-k2-rpp6-ppr10-plb100.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "377040 KiB"
+        },
+        "unweighted/uaq/uaq-rpp-nr100-nc33-n3-k2-rpp26-ppr2-plb20.wcnf.xz": {
+            "status": true,
+            "rtime": 54.5852,
+            "mempeak": "355612 KiB",
+            "cost": 74
+        },
+        "unweighted/uaq/uaq-rpp-nr100-nc33-n3-k2-rpp18-ppr2-plb20.wcnf.xz": {
+            "status": true,
+            "rtime": 49.4543,
+            "mempeak": "352548 KiB",
+            "cost": 67
+        },
+        "unweighted/uaq/uaq-plb-nr250-nc83-n5-k2-rpp3-ppr5-plb50.wcnf.xz": {
+            "status": true,
+            "rtime": 8.41147,
+            "mempeak": "341748 KiB",
+            "cost": 75
+        },
+        "unweighted/uaq/uaq-plb-nr250-nc83-n5-k2-rpp3-ppr5-plb150.wcnf.xz": {
+            "status": true,
+            "rtime": 0.482755,
+            "mempeak": "113288 KiB",
+            "cost": 76
+        },
+        "unweighted/uaq/uaq-rpp-nr100-nc33-n3-k2-rpp7-ppr2-plb20.wcnf.xz": {
+            "status": true,
+            "rtime": 5.70954,
+            "mempeak": "335592 KiB",
+            "cost": 44
+        },
+        "unweighted/uaq/uaq-nr-nr340-nc113-n3-k2-rpp4-ppr2-plb50.wcnf.xz": {
+            "status": true,
+            "rtime": 1.0473,
+            "mempeak": "331908 KiB",
+            "cost": 73
+        },
+        "unweighted/uaq/uaq-ppr-nr200-nc66-n5-k2-rpp4-ppr14-plb100.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "379648 KiB"
+        },
+        "unweighted/uaq/uaq-nr-nr450-nc150-n3-k2-rpp4-ppr2-plb50.wcnf.xz": {
+            "status": true,
+            "rtime": 0.259821,
+            "mempeak": "113288 KiB",
+            "cost": 61
+        },
+        "unweighted/uaq/uaq-plb-nr250-nc83-n5-k2-rpp3-ppr5-plb80.wcnf.xz": {
+            "status": true,
+            "rtime": 27.6101,
+            "mempeak": "356092 KiB",
+            "cost": 92
+        },
+        "unweighted/uaq/uaq-rpp-nr100-nc33-n3-k2-rpp6-ppr2-plb20.wcnf.xz": {
+            "status": true,
+            "rtime": 10.0014,
+            "mempeak": "341580 KiB",
+            "cost": 44
+        },
+        "unweighted/uaq/uaq-ppr-nr200-nc66-n5-k2-rpp4-ppr12-plb100.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "379268 KiB"
+        },
+        "unweighted/bcp/normalized-fir07_area_partials.wcnf.xz": {
+            "status": true,
+            "rtime": 0.132476,
+            "mempeak": "113288 KiB",
+            "cost": 33
+        },
+        "unweighted/bcp/apex2_Fv21@1.wcnf.xz": {
+            "status": true,
+            "rtime": 0.161298,
+            "mempeak": "113288 KiB",
+            "cost": 8
+        },
+        "unweighted/bcp/normalized-aim-200-2_0-yes1-2.wcnf.xz": {
+            "status": true,
+            "rtime": 0.178529,
+            "mempeak": "113288 KiB",
+            "cost": 200
+        },
+        "unweighted/bcp/alu4_Fk@0.wcnf.xz": {
+            "status": true,
+            "rtime": 0.52866,
+            "mempeak": "113288 KiB",
+            "cost": 6
+        },
+        "unweighted/bcp/SU1__simp-genos.haps.71.wcnf.xz": {
+            "status": true,
+            "rtime": 1.11095,
+            "mempeak": "399340 KiB",
+            "cost": 93
+        },
+        "unweighted/bcp/normalized-par16-5.wcnf.xz": {
+            "status": true,
+            "rtime": 1.94782,
+            "mempeak": "332104 KiB",
+            "cost": 1015
+        },
+        "unweighted/bcp/SU3__simp-genos.haps.32.wcnf.xz": {
+            "status": true,
+            "rtime": 0.294469,
+            "mempeak": "113288 KiB",
+            "cost": 155
+        },
+        "unweighted/frb/frb35-17-2.partial.wcnf.xz": {
+            "status": true,
+            "rtime": 18.4544,
+            "mempeak": "369508 KiB",
+            "cost": 560
+        },
+        "unweighted/frb/frb30-15-3.partial.wcnf.xz": {
+            "status": true,
+            "rtime": 3.1367,
+            "mempeak": "333272 KiB",
+            "cost": 420
+        },
+        "unweighted/frb/frb20-11-5.partial.wcnf.xz": {
+            "status": true,
+            "rtime": 0.227449,
+            "mempeak": "113288 KiB",
+            "cost": 200
+        },
+        "unweighted/frb/frb40-19-3.partial.wcnf.xz": {
+            "status": true,
+            "rtime": 111.891,
+            "mempeak": "395580 KiB",
+            "cost": 720
+        },
+        "unweighted/frb/frb35-17-1.partial.wcnf.xz": {
+            "status": true,
+            "rtime": 6.31714,
+            "mempeak": "348468 KiB",
+            "cost": 560
+        },
+        "unweighted/frb/frb30-15-4.partial.wcnf.xz": {
+            "status": true,
+            "rtime": 0.712139,
+            "mempeak": "333480 KiB",
+            "cost": 420
+        },
+        "unweighted/frb/frb20-11-2.partial.wcnf.xz": {
+            "status": true,
+            "rtime": 0.232456,
+            "mempeak": "113288 KiB",
+            "cost": 200
+        },
+        "unweighted/frb/frb25-13-1.partial.wcnf.xz": {
+            "status": true,
+            "rtime": 0.561708,
+            "mempeak": "331000 KiB",
+            "cost": 300
+        },
+        "unweighted/frb/frb40-19-4.partial.wcnf.xz": {
+            "status": true,
+            "rtime": 1.58815,
+            "mempeak": "395412 KiB",
+            "cost": 720
+        },
+        "unweighted/frb/frb25-13-3.partial.wcnf.xz": {
+            "status": true,
+            "rtime": 0.363878,
+            "mempeak": "113288 KiB",
+            "cost": 300
+        },
+        "unweighted/set-covering/scpclr13_maxsat.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "537836 KiB"
+        },
+        "unweighted/set-covering/scpcyc08_maxsat.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "386644 KiB"
+        },
+        "unweighted/set-covering/scpcyc11_maxsat.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "601044 KiB"
+        },
+        "unweighted/set-covering/scpcyc06_maxsat.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "387828 KiB"
+        },
+        "unweighted/set-covering/scpcyc07_maxsat.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "402372 KiB"
+        },
+        "unweighted/set-covering/scpclr10_maxsat.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "377896 KiB"
+        },
+        "unweighted/set-covering/scpcyc09_maxsat.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "425432 KiB"
+        },
+        "unweighted/set-covering/scpcyc10_maxsat.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "410376 KiB"
+        },
+        "unweighted/set-covering/scpclr12_maxsat.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "433052 KiB"
+        },
+        "unweighted/uaq_2020/uaq-min-rpp-nr200-np400-rpp11-nc0-rs0-t0-plb10-n9.wcnf.xz": {
+            "status": true,
+            "rtime": 17.0642,
+            "mempeak": "353336 KiB",
+            "cost": 82
+        },
+        "unweighted/uaq_2020/uaq-min-rpp-nr200-np400-rpp4-nc0-rs0-t0-plb4-n2.wcnf.xz": {
+            "status": true,
+            "rtime": 0.175644,
+            "mempeak": "113288 KiB",
+            "cost": 19
+        },
+        "unweighted/uaq_2020/uaq-max-nc-nr200-np400-rpp5-nc90-n8-t3-plb10-n1.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "382148 KiB"
+        },
+        "unweighted/uaq_2020/uaq-min-nr-nr30-np400-rpp5-nc0-rs0-t0-plb100-n1.wcnf.xz": {
+            "status": true,
+            "rtime": 12.0281,
+            "mempeak": "342508 KiB",
+            "cost": 249
+        },
+        "unweighted/uaq_2020/uaq-max-t-nr1000-np1000-rpp1-nc50-n12-t8-plb10-n7.wcnf.xz": {
+            "status": true,
+            "rtime": 18.8782,
+            "mempeak": "407940 KiB",
+            "cost": 650
+        },
+        "unweighted/uaq_2020/uaq-max-rs-nr200-np400-rpp5-nc10-n25-t3-plb10-n5.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "376220 KiB"
+        },
+        "unweighted/uaq_2020/uaq-max-rs-nr200-np400-rpp5-nc10-n25-t3-plb10-n1.wcnf.xz": {
+            "status": true,
+            "rtime": 2429.09,
+            "mempeak": "373672 KiB",
+            "cost": 13
+        },
+        "unweighted/uaq_2020/uaq-min-plb-nr10-np400-rpp5-nc0-rs0-t0-plb15-n6.wcnf.xz": {
+            "status": true,
+            "rtime": 0.518039,
+            "mempeak": "113288 KiB",
+            "cost": 346
+        },
+        "unweighted/uaq_2020/uaq-min-nr-nr80-np400-rpp5-nc0-rs0-t0-plb100-n6.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "384972 KiB"
+        },
+        "unweighted/uaq_2020/uaq-max-nc-nr10-np400-rpp5-nc100-n8-t3-plb10-n9.wcnf.xz": {
+            "status": true,
+            "rtime": 0.319908,
+            "mempeak": "113288 KiB",
+            "cost": 83
+        },
+        "unweighted/uaq_2020/uaq-min-plb-nr10-np400-rpp5-nc0-rs0-t0-plb35-n3.wcnf.xz": {
+            "status": true,
+            "rtime": 0.34679,
+            "mempeak": "113288 KiB",
+            "cost": 332
+        },
+        "unweighted/uaq_2020/uaq-max-nc-nr10-np400-rpp5-nc90-n8-t3-plb10-n0.wcnf.xz": {
+            "status": true,
+            "rtime": 0.255909,
+            "mempeak": "113288 KiB",
+            "cost": 84
+        },
+        "unweighted/uaq_2020/uaq-min-rpp-nr200-np400-rpp9-nc0-rs0-t0-plb10-n8.wcnf.xz": {
+            "status": true,
+            "rtime": 12.8348,
+            "mempeak": "342340 KiB",
+            "cost": 80
+        },
+        "unweighted/uaq_2020/uaq-max-t-nr1000-np1000-rpp1-nc50-n12-t5-plb10-n2.wcnf.xz": {
+            "status": true,
+            "rtime": 6.02354,
+            "mempeak": "342884 KiB",
+            "cost": 800
+        },
+        "unweighted/uaq_2020/uaq-min-rs-nr100-np400-rpp5-nc10-rs20-t3-plb10-n6.wcnf.xz": {
+            "status": true,
+            "rtime": 0.385259,
+            "mempeak": "113288 KiB",
+            "cost": 47
+        },
+        "unweighted/uaq_2020/uaq-min-rpp-nr200-np400-rpp6-nc0-rs0-t0-plb4-n5.wcnf.xz": {
+            "status": true,
+            "rtime": 0.206208,
+            "mempeak": "113288 KiB",
+            "cost": 30
+        },
+        "unweighted/uaq_2020/uaq-min-nr-nr40-np400-rpp5-nc0-rs0-t0-plb100-n8.wcnf.xz": {
+            "status": true,
+            "rtime": 301.8,
+            "mempeak": "364392 KiB",
+            "cost": 245
+        },
+        "unweighted/HaplotypeAssembly/splitedReads_160.matrix.wcnf.xz": {
+            "status": true,
+            "rtime": 5.51904,
+            "mempeak": "399016 KiB",
+            "cost": 186
+        },
+        "unweighted/HaplotypeAssembly/splitedReads_414.matrix.wcnf.xz": {
+            "status": true,
+            "rtime": 3.9565,
+            "mempeak": "396204 KiB",
+            "cost": 171
+        },
+        "unweighted/HaplotypeAssembly/splitedReads_0.matrix.wcnf.xz": {
+            "status": true,
+            "rtime": 54.6392,
+            "mempeak": "397628 KiB",
+            "cost": 1500
+        },
+        "unweighted/HaplotypeAssembly/splitedReads_137.matrix.wcnf.xz": {
+            "status": true,
+            "rtime": 2.22412,
+            "mempeak": "395580 KiB",
+            "cost": 90
+        },
+        "unweighted/HaplotypeAssembly/splitedReads_158.matrix.wcnf.xz": {
+            "status": true,
+            "rtime": 4.82331,
+            "mempeak": "398136 KiB",
+            "cost": 173
+        },
+        "unweighted/HaplotypeAssembly/splitedReads_18.matrix.wcnf.xz": {
+            "status": true,
+            "rtime": 3.16171,
+            "mempeak": "396136 KiB",
+            "cost": 138
+        },
+        "unweighted/close_solutions/SAT04__industrial__velev__pipe-sat-1-1__12pipe_bug6_q0.used-as.sat04-725.cnf.wcnf.3.wcnf.xz": {
+            "status": true,
+            "rtime": 488.536,
+            "mempeak": "1943728 KiB",
+            "cost": 148
+        },
+        "unweighted/close_solutions/SAT04__industrial__velev__pipe-sat-1-1__12pipe_bug6_q0.used-as.sat04-725.cnf.wcnf.10.wcnf.xz": {
+            "status": true,
+            "rtime": 441.36,
+            "mempeak": "1852924 KiB",
+            "cost": 50
+        },
+        "unweighted/close_solutions/SAT_RACE06__velev-pipe-sat-1.0-b9.cnf.wcnf.5.wcnf.xz": {
+            "status": true,
+            "rtime": 222.298,
+            "mempeak": "2775352 KiB",
+            "cost": 85
+        },
+        "unweighted/close_solutions/teams24_l5a.cnf.wcnf.xz": {
+            "status": true,
+            "rtime": 84.7581,
+            "mempeak": "565224 KiB",
+            "cost": 8
+        },
+        "unweighted/close_solutions/SAT11__application__jarvisalo__smtqfbv-aigs__smtlib-qfbv-aigs-rfunit_flat-64-tseitin.cnf.wcnf.4.wcnf.xz": {
+            "status": true,
+            "rtime": 31.1087,
+            "mempeak": "697788 KiB",
+            "cost": 9
+        },
+        "unweighted/close_solutions/teams16_l9a.cnf.wcnf.xz": {
+            "status": true,
+            "rtime": 2.84558,
+            "mempeak": "398488 KiB",
+            "cost": 12
+        },
+        "unweighted/phylogenetic-trees/ms_120_20_20-0.wcnf.xz": {
+            "status": true,
+            "rtime": 1167.46,
+            "mempeak": "9865272 KiB",
+            "cost": 49
+        },
+        "unweighted/phylogenetic-trees/ms_200_12_20-1.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "15083096 KiB"
+        },
+        "unweighted/phylogenetic-trees/ms_200_40_20-1.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "18514184 KiB"
+        },
+        "unweighted/phylogenetic-trees/ms_200_32_20-0.wcnf.xz": {
+            "status": true,
+            "rtime": 268.171,
+            "mempeak": "3183232 KiB",
+            "cost": 45
+        },
+        "unweighted/phylogenetic-trees/ms_140_20_20-1.wcnf.xz": {
+            "status": true,
+            "rtime": 2351.37,
+            "mempeak": "16519876 KiB",
+            "cost": 48
+        },
+        "unweighted/phylogenetic-trees/ms_200_36_20-0.wcnf.xz": {
+            "status": true,
+            "rtime": 275.616,
+            "mempeak": "3307988 KiB",
+            "cost": 52
+        },
+        "unweighted/phylogenetic-trees/ms_200_20_12-1.wcnf.xz": {
+            "status": true,
+            "rtime": 1332.08,
+            "mempeak": "14166996 KiB",
+            "cost": 46
+        },
+        "unweighted/phylogenetic-trees/ms_200_20_20-2.wcnf.xz": {
+            "status": true,
+            "rtime": 1557.11,
+            "mempeak": "14754796 KiB",
+            "cost": 61
+        },
+        "unweighted/phylogenetic-trees/ms_200_20_12-0.wcnf.xz": {
+            "status": true,
+            "rtime": 2351.3,
+            "mempeak": "15259852 KiB",
+            "cost": 75
+        },
+        "unweighted/phylogenetic-trees/ms_260_20_20-2.wcnf.xz": {
+            "status": true,
+            "rtime": 1799.32,
+            "mempeak": "15773788 KiB",
+            "cost": 129
+        },
+        "unweighted/phylogenetic-trees/ms_200_14_20-0.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "14318104 KiB"
+        },
+        "unweighted/phylogenetic-trees/ms_200_20_20-7.wcnf.xz": {
+            "status": true,
+            "rtime": 1895.02,
+            "mempeak": "17272232 KiB",
+            "cost": 91
+        },
+        "unweighted/phylogenetic-trees/ms_200_20_16-0.wcnf.xz": {
+            "status": true,
+            "rtime": 1633.14,
+            "mempeak": "16657096 KiB",
+            "cost": 52
+        },
+        "unweighted/phylogenetic-trees/ms_350_10_20-0.wcnf.xz": {
+            "status": true,
+            "rtime": 406.733,
+            "mempeak": "3559388 KiB",
+            "cost": 157
+        },
+        "unweighted/phylogenetic-trees/ms_200_20_14-0.wcnf.xz": {
+            "status": true,
+            "rtime": 171.423,
+            "mempeak": "2597464 KiB",
+            "cost": 17
+        },
+        "unweighted/phylogenetic-trees/ms_200_22_20-1.wcnf.xz": {
+            "status": true,
+            "rtime": 350.795,
+            "mempeak": "3546064 KiB",
+            "cost": 101
+        },
+        "unweighted/phylogenetic-trees/ms_200_14_20-2.wcnf.xz": {
+            "status": true,
+            "rtime": 451.793,
+            "mempeak": "3697052 KiB",
+            "cost": 85
+        },
+        "unweighted/phylogenetic-trees/ms_200_20_12-2.wcnf.xz": {
+            "status": true,
+            "rtime": 1244.56,
+            "mempeak": "15933396 KiB",
+            "cost": 9
+        },
+        "unweighted/phylogenetic-trees/ms_250_10_40-1.wcnf.xz": {
+            "status": true,
+            "rtime": 674.613,
+            "mempeak": "3912888 KiB",
+            "cost": 126
+        },
+        "unweighted/phylogenetic-trees/ms_180_20_20-0.wcnf.xz": {
+            "status": true,
+            "rtime": 1363.85,
+            "mempeak": "11411016 KiB",
+            "cost": 79
+        },
+        "unweighted/phylogenetic-trees/ms_200_20_20-1.wcnf.xz": {
+            "status": true,
+            "rtime": 1592.61,
+            "mempeak": "17511288 KiB",
+            "cost": 64
+        },
+        "unweighted/phylogenetic-trees/ms_200_40_20-2.wcnf.xz": {
+            "status": true,
+            "rtime": 137.279,
+            "mempeak": "2114964 KiB",
+            "cost": 18
+        },
+        "unweighted/phylogenetic-trees/ms_350_10_40-0.wcnf.xz": {
+            "status": true,
+            "rtime": 1339.57,
+            "mempeak": "11303788 KiB",
+            "cost": 170
+        },
+        "unweighted/phylogenetic-trees/ms_220_20_20-1.wcnf.xz": {
+            "status": true,
+            "rtime": 293.781,
+            "mempeak": "3632176 KiB",
+            "cost": 48
+        },
+        "unweighted/phylogenetic-trees/ms_140_20_20-2.wcnf.xz": {
+            "status": true,
+            "rtime": 2987.35,
+            "mempeak": "21604128 KiB",
+            "cost": 48
+        },
+        "unweighted/phylogenetic-trees/ms_200_20_24-1.wcnf.xz": {
+            "status": true,
+            "rtime": 289.674,
+            "mempeak": "3585168 KiB",
+            "cost": 51
+        },
+        "unweighted/phylogenetic-trees/ms_250_20_20-0.wcnf.xz": {
+            "status": true,
+            "rtime": 2099.12,
+            "mempeak": "19307716 KiB",
+            "cost": 74
+        },
+        "unweighted/phylogenetic-trees/ms_400_20_20-0.wcnf.xz": {
+            "status": true,
+            "rtime": 176.945,
+            "mempeak": "2453416 KiB",
+            "cost": 70
+        },
+        "unweighted/phylogenetic-trees/ms_180_20_20-1.wcnf.xz": {
+            "status": true,
+            "rtime": 2347.93,
+            "mempeak": "13253888 KiB",
+            "cost": 48
+        },
+        "unweighted/phylogenetic-trees/ms_340_20_20-0.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "14313964 KiB"
+        },
+        "unweighted/scheduling/cnf_10_center.wcnf.xz": {
+            "status": true,
+            "rtime": 847.051,
+            "mempeak": "630244 KiB",
+            "cost": 159
+        },
+        "unweighted/scheduling/cnf_12_center.wcnf.xz": {
+            "status": true,
+            "rtime": 188.298,
+            "mempeak": "640976 KiB",
+            "cost": 237
+        },
+        "unweighted/scheduling/cnf_10.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "758452 KiB"
+        },
+        "unweighted/scheduling/cnf_small.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "409220 KiB"
+        },
+        "unweighted/scheduling/cnf_12.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "765624 KiB"
+        },
+        "unweighted/aes-key-recovery/AES1-76-39.wcnf.xz": {
+            "status": true,
+            "rtime": 31.9958,
+            "mempeak": "493712 KiB",
+            "cost": 1
+        },
+        "unweighted/aes-key-recovery/AES1-40-6.wcnf.xz": {
+            "status": true,
+            "rtime": 7.42481,
+            "mempeak": "493220 KiB",
+            "cost": 1
+        },
+        "unweighted/aes-key-recovery/AES2-74-71.wcnf.xz": {
+            "status": true,
+            "rtime": 401.228,
+            "mempeak": "546808 KiB",
+            "cost": 2
+        },
+        "unweighted/aes-key-recovery/AES2-70-63.wcnf.xz": {
+            "status": true,
+            "rtime": 10.6829,
+            "mempeak": "493128 KiB",
+            "cost": 2
+        },
+        "unweighted/aes-key-recovery/AES1-70-22.wcnf.xz": {
+            "status": true,
+            "rtime": 7.81192,
+            "mempeak": "493868 KiB",
+            "cost": 1
+        },
+        "unweighted/aes-key-recovery/AES1-30-2.wcnf.xz": {
+            "status": true,
+            "rtime": 7.29247,
+            "mempeak": "493888 KiB",
+            "cost": 1
+        },
+        "unweighted/aes-key-recovery/AES1-70-23.wcnf.xz": {
+            "status": true,
+            "rtime": 21.4183,
+            "mempeak": "493772 KiB",
+            "cost": 1
+        },
+        "unweighted/aes-key-recovery/AES1-30-3.wcnf.xz": {
+            "status": true,
+            "rtime": 7.71424,
+            "mempeak": "493196 KiB",
+            "cost": 1
+        },
+        "unweighted/aes-key-recovery/AES1-76-38.wcnf.xz": {
+            "status": true,
+            "rtime": 1217.25,
+            "mempeak": "543880 KiB",
+            "cost": 1
+        },
+        "unweighted/aes-key-recovery/AES1-60-17.wcnf.xz": {
+            "status": true,
+            "rtime": 7.4487,
+            "mempeak": "494308 KiB",
+            "cost": 1
+        },
+        "unweighted/aes-key-recovery/AES2-70-62.wcnf.xz": {
+            "status": true,
+            "rtime": 291.264,
+            "mempeak": "564380 KiB",
+            "cost": 2
+        },
+        "unweighted/aes-key-recovery/AES1-74-33.wcnf.xz": {
+            "status": true,
+            "rtime": 27.2497,
+            "mempeak": "494052 KiB",
+            "cost": 1
+        },
+        "unweighted/aes-key-recovery/AES1-70-25.wcnf.xz": {
+            "status": true,
+            "rtime": 15.4584,
+            "mempeak": "494000 KiB",
+            "cost": 1
+        },
+        "unweighted/aes-key-recovery/AES1-30-1.wcnf.xz": {
+            "status": true,
+            "rtime": 7.30488,
+            "mempeak": "493952 KiB",
+            "cost": 1
+        },
+        "unweighted/aes-key-recovery/AES2-72-69.wcnf.xz": {
+            "status": true,
+            "rtime": 23.7433,
+            "mempeak": "493952 KiB",
+            "cost": 2
+        },
+        "unweighted/aes-key-recovery/AES2-50-52.wcnf.xz": {
+            "status": true,
+            "rtime": 9.27542,
+            "mempeak": "493872 KiB",
+            "cost": 2
+        },
+        "unweighted/aes-key-recovery/AES2-72-70.wcnf.xz": {
+            "status": true,
+            "rtime": 15.6725,
+            "mempeak": "493308 KiB",
+            "cost": 2
+        },
+        "unweighted/aes-key-recovery/AES2-50-53.wcnf.xz": {
+            "status": true,
+            "rtime": 7.68848,
+            "mempeak": "493956 KiB",
+            "cost": 2
+        },
+        "unweighted/aes-key-recovery/AES2-60-59.wcnf.xz": {
+            "status": true,
+            "rtime": 7.49742,
+            "mempeak": "493176 KiB",
+            "cost": 2
+        },
+        "unweighted/kbtree/kbtree9_7_3_5_30_6.wcsp.wcnf.xz": {
+            "status": true,
+            "rtime": 58.3072,
+            "mempeak": "351436 KiB",
+            "cost": 9
+        },
+        "unweighted/kbtree/kbtree9_7_3_5_20_2.wcsp.wcnf.xz": {
+            "status": true,
+            "rtime": 0.535156,
+            "mempeak": "330592 KiB",
+            "cost": 2
+        },
+        "unweighted/kbtree/kbtree9_7_3_5_80_6.wcsp.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "373040 KiB"
+        },
+        "unweighted/kbtree/kbtree9_7_3_5_90_1.wcsp.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "369132 KiB"
+        },
+        "unweighted/kbtree/kbtree9_7_3_5_60_2.wcsp.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "379396 KiB"
+        },
+        "unweighted/kbtree/kbtree9_7_3_5_70_5.wcsp.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "374196 KiB"
+        },
+        "unweighted/kbtree/kbtree9_7_3_5_80_3.wcsp.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "373004 KiB"
+        },
+        "unweighted/kbtree/kbtree9_7_3_5_40_5.wcsp.wcnf.xz": {
+            "status": true,
+            "rtime": 1537.64,
+            "mempeak": "372532 KiB",
+            "cost": 23
+        },
+        "unweighted/kbtree/kbtree9_7_3_5_50_5.wcsp.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "374208 KiB"
+        },
+        "unweighted/kbtree/kbtree9_7_3_5_50_4.wcsp.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "365224 KiB"
+        },
+        "unweighted/aes/mul_8_14.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "905840 KiB"
+        },
+        "unweighted/aes/sbox_4.wcnf.xz": {
+            "status": true,
+            "rtime": 0.435761,
+            "mempeak": "113288 KiB",
+            "cost": 22
+        },
+        "unweighted/aes/sbox_8.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "5034896 KiB"
+        },
+        "unweighted/aes/mul_8_11.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "901948 KiB"
+        },
+        "unweighted/aes/mul_8_9.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "621760 KiB"
+        },
+        "unweighted/aes/mul_8_3.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "547996 KiB"
+        },
+        "unweighted/aes/mul_8_13.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "910408 KiB"
+        },
+        "unweighted/maxone/3col80_5_6.shuffled.cnf.wcnf.xz": {
+            "status": true,
+            "rtime": 0.15845,
+            "mempeak": "113288 KiB",
+            "cost": 76
+        },
+        "unweighted/maxone/med11.shuffled.cnf.wcnf.xz": {
+            "status": true,
+            "rtime": 0.228318,
+            "mempeak": "113288 KiB",
+            "cost": 164
+        },
+        "unweighted/maxone/3col100_5_8.shuffled.cnf.wcnf.xz": {
+            "status": true,
+            "rtime": 0.246255,
+            "mempeak": "113288 KiB",
+            "cost": 94
+        },
+        "unweighted/maxone/ezfact32_1.shuffled.cnf.wcnf.xz": {
+            "status": true,
+            "rtime": 0.819849,
+            "mempeak": "330280 KiB",
+            "cost": 400
+        },
+        "unweighted/maxone/3col120_5_10.shuffled.cnf.wcnf.xz": {
+            "status": true,
+            "rtime": 5.56004,
+            "mempeak": "331828 KiB",
+            "cost": 125
+        },
+        "unweighted/maxone/ezfact32_10.shuffled.cnf.wcnf.xz": {
+            "status": true,
+            "rtime": 0.388286,
+            "mempeak": "113288 KiB",
+            "cost": 389
+        },
+        "unweighted/maxone/ezfact32_6.shuffled.cnf.wcnf.xz": {
+            "status": true,
+            "rtime": 0.351525,
+            "mempeak": "113288 KiB",
+            "cost": 382
+        },
+        "unweighted/maxone/dp02s02.shuffled.cnf.wcnf.xz": {
+            "status": true,
+            "rtime": 0.170983,
+            "mempeak": "113288 KiB",
+            "cost": 100
+        },
+        "unweighted/maxone/dp04s04.shuffled.cnf.wcnf.xz": {
+            "status": true,
+            "rtime": 1.11956,
+            "mempeak": "331108 KiB",
+            "cost": 533
+        },
+        "unweighted/maxone/3col100_5_7.shuffled.cnf.wcnf.xz": {
+            "status": true,
+            "rtime": 0.256629,
+            "mempeak": "113288 KiB",
+            "cost": 85
+        },
+        "unweighted/maxone/3col120_5_8.shuffled.cnf.wcnf.xz": {
+            "status": true,
+            "rtime": 7.19783,
+            "mempeak": "333540 KiB",
+            "cost": 110
+        },
+        "unweighted/maxone/3col140_5_5.shuffled.cnf.wcnf.xz": {
+            "status": true,
+            "rtime": 24.2375,
+            "mempeak": "342424 KiB",
+            "cost": 124
+        },
+        "unweighted/maxone/3col140_5_9.shuffled.cnf.wcnf.xz": {
+            "status": true,
+            "rtime": 39.4946,
+            "mempeak": "344204 KiB",
+            "cost": 134
+        },
+        "unweighted/maxone/3col80_5_5.shuffled.cnf.wcnf.xz": {
+            "status": true,
+            "rtime": 0.160404,
+            "mempeak": "113288 KiB",
+            "cost": 78
+        },
+        "unweighted/maxone/3col80_5_8.shuffled.cnf.wcnf.xz": {
+            "status": true,
+            "rtime": 0.159401,
+            "mempeak": "113288 KiB",
+            "cost": 82
+        },
+        "unweighted/maxone/3col120_5_9.shuffled.cnf.wcnf.xz": {
+            "status": true,
+            "rtime": 3.5744,
+            "mempeak": "331196 KiB",
+            "cost": 117
+        },
+        "unweighted/maxone/3col80_5_3.shuffled.cnf.wcnf.xz": {
+            "status": true,
+            "rtime": 0.157739,
+            "mempeak": "113288 KiB",
+            "cost": 88
+        },
+        "unweighted/CircuitDebuggingProblems/vga-debug.dimacs.wcnf.xz": {
+            "status": true,
+            "rtime": 50.598,
+            "mempeak": "962516 KiB",
+            "cost": 1
+        },
+        "unweighted/CircuitDebuggingProblems/sudoku-debug.dimacs.wcnf.xz": {
+            "status": true,
+            "rtime": 63.857,
+            "mempeak": "2012848 KiB",
+            "cost": 1
+        },
+        "unweighted/CircuitDebuggingProblems/divider-debug.dimacs.wcnf.xz": {
+            "status": true,
+            "rtime": 772.979,
+            "mempeak": "935296 KiB",
+            "cost": 1
+        },
+        "unweighted/CircuitDebuggingProblems/mrisc-debug.dimacs.wcnf.xz": {
+            "status": true,
+            "rtime": 68.9081,
+            "mempeak": "2042376 KiB",
+            "cost": 1
+        },
+        "unweighted/CircuitDebuggingProblems/wb-debug.dimacs.wcnf.xz": {
+            "status": true,
+            "rtime": 227.89,
+            "mempeak": "943796 KiB",
+            "cost": 28
+        },
+        "unweighted/CircuitDebuggingProblems/rsdecoder-debug.dimacs.wcnf.xz": {
+            "status": true,
+            "rtime": 92.6925,
+            "mempeak": "2682796 KiB",
+            "cost": 1
+        },
+        "unweighted/CircuitDebuggingProblems/ac97_ctrl-debug.dimacs.wcnf.xz": {
+            "status": true,
+            "rtime": 7.15346,
+            "mempeak": "484464 KiB",
+            "cost": 1
+        },
+        "unweighted/CircuitDebuggingProblems/spi-debug.dimacs.wcnf.xz": {
+            "status": true,
+            "rtime": 78.6417,
+            "mempeak": "2374540 KiB",
+            "cost": 1
+        },
+        "unweighted/CircuitDebuggingProblems/mem_ctrl-debug.dimacs.wcnf.xz": {
+            "status": true,
+            "rtime": 32.9256,
+            "mempeak": "848608 KiB",
+            "cost": 1
+        },
+        "unweighted/logic-synthesis/normalized-9sym.b.opb.msat.wcnf.xz": {
+            "status": true,
+            "rtime": 0.200687,
+            "mempeak": "113288 KiB",
+            "cost": 5
+        },
+        "unweighted/logic-synthesis/normalized-f51m.b.opb.msat.wcnf.xz": {
+            "status": true,
+            "rtime": 0.295144,
+            "mempeak": "113288 KiB",
+            "cost": 18
+        },
+        "unweighted/logic-synthesis/normalized-e64.b.opb.msat.wcnf.xz": {
+            "status": true,
+            "rtime": 0.836142,
+            "mempeak": "331468 KiB",
+            "cost": 47
+        },
+        "unweighted/logic-synthesis/normalized-ex5.pi.opb.msat.wcnf.xz": {
+            "status": true,
+            "rtime": 433.217,
+            "mempeak": "403992 KiB",
+            "cost": 65
+        },
+        "unweighted/logic-synthesis/normalized-prom2.pi.opb.msat.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "394432 KiB"
+        },
+        "unweighted/logic-synthesis/normalized-bench1.pi.opb.msat.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "453368 KiB"
+        },
+        "unweighted/logic-synthesis/normalized-count.b.opb.msat.wcnf.xz": {
+            "status": true,
+            "rtime": 0.308307,
+            "mempeak": "113288 KiB",
+            "cost": 24
+        },
+        "unweighted/logic-synthesis/normalized-alu4.b.opb.msat.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "405828 KiB"
+        },
+        "unweighted/logic-synthesis/normalized-5xp1.b.opb.msat.wcnf.xz": {
+            "status": true,
+            "rtime": 0.832733,
+            "mempeak": "331348 KiB",
+            "cost": 12
+        },
+        "unweighted/logic-synthesis/normalized-jac3.opb.msat.wcnf.xz": {
+            "status": true,
+            "rtime": 1.3422,
+            "mempeak": "336308 KiB",
+            "cost": 15
+        },
+        "unweighted/logic-synthesis/normalized-exam.pi.opb.msat.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "415672 KiB"
+        },
+        "unweighted/logic-synthesis/normalized-clip.b.opb.msat.wcnf.xz": {
+            "status": true,
+            "rtime": 0.258941,
+            "mempeak": "113288 KiB",
+            "cost": 15
+        },
+        "unweighted/logic-synthesis/normalized-sao2.b.opb.msat.wcnf.xz": {
+            "status": true,
+            "rtime": 0.19509,
+            "mempeak": "113288 KiB",
+            "cost": 25
+        },
+        "unweighted/logic-synthesis/normalized-test4.pi.opb.msat.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "476400 KiB"
+        },
+        "unweighted/logic-synthesis/normalized-rot.b.opb.msat.wcnf.xz": {
+            "status": true,
+            "rtime": 49.0606,
+            "mempeak": "372508 KiB",
+            "cost": 115
+        },
+        "unweighted/logic-synthesis/normalized-apex4.a.opb.msat.wcnf.xz": {
+            "status": true,
+            "rtime": 6.35698,
+            "mempeak": "338696 KiB",
+            "cost": 776
+        },
+        "unweighted/logic-synthesis/normalized-max1024.pi.opb.msat.wcnf.xz": {
+            "status": true,
+            "rtime": 3372.93,
+            "mempeak": "393920 KiB",
+            "cost": 259
+        },
+        "unweighted/min-fill/MinFill_R0_miles1500.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "1227360 KiB"
+        },
+        "unweighted/min-fill/MinFill_R3_david.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "439664 KiB"
+        },
+        "unweighted/min-fill/MinFill_R0_mulsol.i.3.wcnf.xz": {
+            "status": true,
+            "rtime": 510.598,
+            "mempeak": "1645008 KiB",
+            "cost": 240
+        },
+        "unweighted/min-fill/MinFill_R0_myciel4.wcnf.xz": {
+            "status": true,
+            "rtime": 1.62372,
+            "mempeak": "334556 KiB",
+            "cost": 46
+        },
+        "unweighted/min-fill/MinFill_R3_miles750.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "937104 KiB"
+        },
+        "unweighted/min-fill/MinFill_R0_queen6_6.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "426388 KiB"
+        },
+        "unweighted/min-fill/MinFill_R1_games120.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "899864 KiB"
+        },
+        "unweighted/min-fill/MinFill_R0_mulsol.i.4.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "1773368 KiB"
+        },
+        "unweighted/min-fill/MinFill_R0_queen9_9.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "651628 KiB"
+        },
+        "unweighted/min-fill/MinFill_R0_queen8_8.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "590284 KiB"
+        },
+        "unweighted/min-fill/MinFill_R0_myciel3.wcnf.xz": {
+            "status": true,
+            "rtime": 0.199465,
+            "mempeak": "113288 KiB",
+            "cost": 10
+        },
+        "unweighted/min-fill/MinFill_R0_queen8_12.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "740648 KiB"
+        },
+        "unweighted/pseudoBoolean/normalized-mps-v2-20-10-stein9.opb.msat.wcnf.xz": {
+            "status": true,
+            "rtime": 0.120314,
+            "mempeak": "113288 KiB",
+            "cost": 5
+        },
+        "unweighted/pseudoBoolean/normalized-par8-5.opb.msat.wcnf.xz": {
+            "status": true,
+            "rtime": 0.335574,
+            "mempeak": "113288 KiB",
+            "cost": 350
+        },
+        "unweighted/pseudoBoolean/normalized-par16-3.opb.msat.wcnf.xz": {
+            "status": true,
+            "rtime": 1.94081,
+            "mempeak": "331728 KiB",
+            "cost": 1015
+        },
+        "unweighted/pseudoBoolean/normalized-mps-v2-20-10-stein45.opb.msat.wcnf.xz": {
+            "status": true,
+            "rtime": 45.7595,
+            "mempeak": "348288 KiB",
+            "cost": 30
+        },
+        "unweighted/pseudoBoolean/normalized-par32-4.opb.msat.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "400420 KiB"
+        },
+        "unweighted/pseudoBoolean/normalized-mps-v2-20-10-stein27.opb.msat.wcnf.xz": {
+            "status": true,
+            "rtime": 0.23833,
+            "mempeak": "113288 KiB",
+            "cost": 18
+        },
+        "unweighted/pseudoBoolean/normalized-g7x7.opb.msat.wcnf.xz": {
+            "status": true,
+            "rtime": 0.124805,
+            "mempeak": "113288 KiB",
+            "cost": 12
+        },
+        "unweighted/atcoss/atcoss_sugar_19.wcnf.xz": {
+            "status": true,
+            "rtime": 696.685,
+            "mempeak": "1563124 KiB",
+            "cost": 8
+        },
+        "unweighted/atcoss/atcoss_sugar_11.wcnf.xz": {
+            "status": true,
+            "rtime": 48.6371,
+            "mempeak": "480704 KiB",
+            "cost": 50
+        },
+        "unweighted/atcoss/atcoss_mesat_03.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "762988 KiB"
+        },
+        "unweighted/atcoss/atcoss_mesat_12.wcnf.xz": {
+            "status": true,
+            "rtime": 148.044,
+            "mempeak": "762380 KiB",
+            "cost": 12
+        },
+        "unweighted/atcoss/atcoss_sugar_18.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "662132 KiB"
+        },
+        "unweighted/atcoss/atcoss_mesat_02.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "753008 KiB"
+        },
+        "unweighted/atcoss/atcoss_mesat_06.wcnf.xz": {
+            "status": true,
+            "rtime": 564.699,
+            "mempeak": "913396 KiB",
+            "cost": 20
+        },
+        "unweighted/atcoss/atcoss_sugar_03.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "593880 KiB"
+        },
+        "unweighted/atcoss/atcoss_sugar_12.wcnf.xz": {
+            "status": true,
+            "rtime": 73.2714,
+            "mempeak": "512312 KiB",
+            "cost": 12
+        },
+        "unweighted/atcoss/atcoss_mesat_01.wcnf.xz": {
+            "status": true,
+            "rtime": 358.184,
+            "mempeak": "750944 KiB",
+            "cost": 20
+        },
+        "unweighted/atcoss/atcoss_mesat_05.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "1029336 KiB"
+        },
+        "unweighted/atcoss/atcoss_mesat_18.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "949072 KiB"
+        },
+        "unweighted/atcoss/atcoss_sugar_06.wcnf.xz": {
+            "status": true,
+            "rtime": 153.626,
+            "mempeak": "623532 KiB",
+            "cost": 20
+        },
+        "unweighted/optic/gen_square_5_991.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "447248 KiB"
+        },
+        "unweighted/optic/gen_cvc-add7to3_991.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "373088 KiB"
+        },
+        "unweighted/optic/gen_add_4_carry_991.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "405504 KiB"
+        },
+        "unweighted/optic/gen_add_6_399.wcnf.xz": {
+            "status": true,
+            "rtime": 12.0805,
+            "mempeak": "409536 KiB",
+            "cost": 1324
+        },
+        "unweighted/optic/gen_mult_3_6_991.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "413072 KiB"
+        },
+        "unweighted/optic/gen_mult_4_6_991.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "583336 KiB"
+        },
+        "unweighted/optic/gen_alldiff_ladder_5_991.wcnf.xz": {
+            "status": true,
+            "rtime": 7.53635,
+            "mempeak": "571532 KiB",
+            "cost": 50
+        },
+        "unweighted/optic/gen_mult_4_4_991.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "392856 KiB"
+        },
+        "unweighted/railway-transport/pesp_5min.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "820604 KiB"
+        },
+        "unweighted/railway-transport/p15.wcnf.xz": {
+            "status": true,
+            "rtime": 10.3023,
+            "mempeak": "475980 KiB",
+            "cost": 5
+        },
+        "unweighted/railway-transport/we.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "2757864 KiB"
+        },
+        "unweighted/railway-transport/pesp_18Min.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "1329324 KiB"
+        },
+        "unweighted/railway-transport/d4.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "5269760 KiB"
+        },
+        "unweighted/railway-transport/dp43.wcnf.xz": {
+            "status": true,
+            "rtime": 59.1991,
+            "mempeak": "1207600 KiB",
+            "cost": 47
+        },
+        "unweighted/des/cnf.18.p.10.wcnf.xz": {
+            "status": true,
+            "rtime": 516.801,
+            "mempeak": "773320 KiB",
+            "cost": 18
+        },
+        "unweighted/des/cnf.15.p.9.wcnf.xz": {
+            "status": true,
+            "rtime": 108.355,
+            "mempeak": "615564 KiB",
+            "cost": 15
+        },
+        "unweighted/des/cnf.19.p.3.wcnf.xz": {
+            "status": true,
+            "rtime": 28.3089,
+            "mempeak": "484600 KiB",
+            "cost": 19
+        },
+        "unweighted/des/cnf.18.p.5.wcnf.xz": {
+            "status": true,
+            "rtime": 218.598,
+            "mempeak": "654796 KiB",
+            "cost": 18
+        },
+        "unweighted/des/cnf.17.d.10.wcnf.xz": {
+            "status": true,
+            "rtime": 38.3251,
+            "mempeak": "512136 KiB",
+            "cost": 17
+        },
+        "unweighted/des/cnf.17.p.4.wcnf.xz": {
+            "status": true,
+            "rtime": 255.002,
+            "mempeak": "571192 KiB",
+            "cost": 17
+        },
+        "unweighted/des/cnf.10.p.10.wcnf.xz": {
+            "status": true,
+            "rtime": 25.2744,
+            "mempeak": "475236 KiB",
+            "cost": 10
+        },
+        "unweighted/des/cnf.20.p.4.wcnf.xz": {
+            "status": true,
+            "rtime": 56.6774,
+            "mempeak": "547220 KiB",
+            "cost": 20
+        },
+        "unweighted/railroad_scheduling/SingleDay_37.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "4302816 KiB"
+        },
+        "unweighted/railroad_scheduling/MultiDay_3.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "1817512 KiB"
+        },
+        "unweighted/railroad_scheduling/SingleDay_3.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "426028 KiB"
+        },
+        "unweighted/railroad_scheduling/SingleDay_2.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "402220 KiB"
+        },
+        "unweighted/railroad_scheduling/SingleDay_15.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "793892 KiB"
+        },
+        "unweighted/railroad_scheduling/MultiDay_2.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "1272264 KiB"
+        },
+        "unweighted/railroad_scheduling/Subnetwork_9.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "460884 KiB"
+        },
+        "unweighted/railroad_scheduling/Subnetwork_7.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "432460 KiB"
+        },
+        "unweighted/railroad_scheduling/MultiDay_4.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "2466704 KiB"
+        },
+        "unweighted/railroad_scheduling/MultiDay_0.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "534608 KiB"
+        },
+        "unweighted/railroad_scheduling/MultiDay_1.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "795612 KiB"
+        },
+        "unweighted/hs-timetabling/GreeceWesternGreeceUniversityInstance4.xml.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "767348 KiB"
+        },
+        "unweighted/ConsistentQueryAnswering/synthetic-19.wcnf.xz": {
+            "status": true,
+            "rtime": 45.2164,
+            "mempeak": "401224 KiB",
+            "cost": 14619
+        },
+        "unweighted/ConsistentQueryAnswering/synthetic-7.wcnf.xz": {
+            "status": true,
+            "rtime": 2.31822,
+            "mempeak": "337176 KiB",
+            "cost": 3326
+        },
+        "unweighted/ConsistentQueryAnswering/synthetic-6.wcnf.xz": {
+            "status": true,
+            "rtime": 2.27062,
+            "mempeak": "336208 KiB",
+            "cost": 3196
+        },
+        "unweighted/ConsistentQueryAnswering/real-5.wcnf.xz": {
+            "status": true,
+            "rtime": 258.779,
+            "mempeak": "703624 KiB",
+            "cost": 31589
+        },
+        "unweighted/ConsistentQueryAnswering/synthetic-10.wcnf.xz": {
+            "status": true,
+            "rtime": 45.1224,
+            "mempeak": "400980 KiB",
+            "cost": 14623
+        },
+        "unweighted/ConsistentQueryAnswering/synthetic-18.wcnf.xz": {
+            "status": true,
+            "rtime": 25.7404,
+            "mempeak": "399832 KiB",
+            "cost": 14663
+        },
+        "unweighted/ConsistentQueryAnswering/synthetic-8.wcnf.xz": {
+            "status": true,
+            "rtime": 11.9346,
+            "mempeak": "350232 KiB",
+            "cost": 7349
+        },
+        "unweighted/ConsistentQueryAnswering/synthetic-20.wcnf.xz": {
+            "status": true,
+            "rtime": 3.76244,
+            "mempeak": "346528 KiB",
+            "cost": 6720
+        },
+        "unweighted/ConsistentQueryAnswering/synthetic-12.wcnf.xz": {
+            "status": true,
+            "rtime": 67.3978,
+            "mempeak": "407140 KiB",
+            "cost": 17989
+        },
+        "unweighted/ConsistentQueryAnswering/synthetic-13.wcnf.xz": {
+            "status": true,
+            "rtime": 5.38104,
+            "mempeak": "347904 KiB",
+            "cost": 5583
+        },
+        "unweighted/ConsistentQueryAnswering/real-2.wcnf.xz": {
+            "status": true,
+            "rtime": 13.8399,
+            "mempeak": "663112 KiB",
+            "cost": 368
+        },
+        "unweighted/ConsistentQueryAnswering/synthetic-21.wcnf.xz": {
+            "status": true,
+            "rtime": 41.9454,
+            "mempeak": "407520 KiB",
+            "cost": 21342
+        },
+        "unweighted/ConsistentQueryAnswering/synthetic-5.wcnf.xz": {
+            "status": true,
+            "rtime": 1.16639,
+            "mempeak": "334260 KiB",
+            "cost": 3174
+        },
+        "unweighted/maxclique/san200_0.9_3.clq.wcnf.xz": {
+            "status": true,
+            "rtime": 8.54143,
+            "mempeak": "340908 KiB",
+            "cost": 156
+        },
+        "unweighted/maxclique/p_hat300-2.clq.wcnf.xz": {
+            "status": true,
+            "rtime": 15.5791,
+            "mempeak": "352792 KiB",
+            "cost": 275
+        },
+        "unweighted/maxclique/san200_0.7_2.clq.wcnf.xz": {
+            "status": true,
+            "rtime": 0.246342,
+            "mempeak": "113288 KiB",
+            "cost": 182
+        },
+        "unweighted/maxclique/c-fat500-10.clq.wcnf.xz": {
+            "status": true,
+            "rtime": 1.91166,
+            "mempeak": "399336 KiB",
+            "cost": 374
+        },
+        "unweighted/maxclique/brock800_2.clq.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "494372 KiB"
+        },
+        "unweighted/maxclique/san400_0.7_1.clq.wcnf.xz": {
+            "status": true,
+            "rtime": 15.3898,
+            "mempeak": "348976 KiB",
+            "cost": 360
+        },
+        "unweighted/maxclique/c-fat200-5.clq.wcnf.xz": {
+            "status": true,
+            "rtime": 0.373444,
+            "mempeak": "113288 KiB",
+            "cost": 142
+        },
+        "unweighted/maxclique/brock200_4.clq.wcnf.xz": {
+            "status": true,
+            "rtime": 125.774,
+            "mempeak": "358144 KiB",
+            "cost": 183
+        },
+        "unweighted/maxclique/MANN_a9.clq.wcnf.xz": {
+            "status": true,
+            "rtime": 0.124313,
+            "mempeak": "113288 KiB",
+            "cost": 29
+        },
+        "unweighted/maxclique/sanr400_0.7.clq.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "445268 KiB"
+        },
+        "unweighted/maxclique/c-fat500-1.clq.wcnf.xz": {
+            "status": true,
+            "rtime": 2.03784,
+            "mempeak": "406532 KiB",
+            "cost": 486
+        },
+        "unweighted/maxcut/maxcut-140-630-0.7-49.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "390864 KiB"
+        },
+        "unweighted/maxcut/maxcut-140-630-0.8-3.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "386256 KiB"
+        },
+        "unweighted/maxcut/maxcut-140-630-0.7-3.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "386672 KiB"
+        },
+        "unweighted/maxcut/maxcut-140-630-0.8-4.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "395784 KiB"
+        },
+        "unweighted/maxcut/san400_0.7_3.clq.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "381248 KiB"
+        },
+        "unweighted/maxcut/maxcut-140-630-0.8-20.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "399116 KiB"
+        },
+        "unweighted/maxcut/maxcut-140-630-0.7-33.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "413680 KiB"
+        },
+        "unweighted/maxcut/maxcut-140-630-0.8-44.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "397548 KiB"
+        },
+        "unweighted/maxcut/p_hat500-1.clq.wcnf.xz": {
+            "status": true,
+            "rtime": 46.2397,
+            "mempeak": "345816 KiB",
+            "cost": 75
+        },
+        "unweighted/maxcut/p_hat500-3.clq.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "379876 KiB"
+        },
+        "unweighted/maxcut/san200_0.9_1.clq.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "374616 KiB"
+        },
+        "unweighted/CircuitTraceCompaction/ctrl.wcnf.xz": {
+            "status": true,
+            "rtime": 1.05009,
+            "mempeak": "395200 KiB",
+            "cost": 15
+        },
+        "unweighted/CircuitTraceCompaction/sudoku.wcnf.xz": {
+            "status": true,
+            "rtime": 73.2149,
+            "mempeak": "1244012 KiB",
+            "cost": 13
+        },
+        "unweighted/CircuitTraceCompaction/spi.wcnf.xz": {
+            "status": true,
+            "rtime": 14.9337,
+            "mempeak": "453024 KiB",
+            "cost": 46
+        },
+        "unweighted/CircuitTraceCompaction/mrisc_mem2wire.wcnf.xz": {
+            "status": true,
+            "rtime": 132.667,
+            "mempeak": "688460 KiB",
+            "cost": 5
+        },
+        "unweighted/mbd/b22_C-mbd14-0232.wcnf.xz": {
+            "status": true,
+            "rtime": 4.22851,
+            "mempeak": "405268 KiB",
+            "cost": 19
+        },
+        "unweighted/mbd/b22_C-mbd14-0215.wcnf.xz": {
+            "status": true,
+            "rtime": 3.59114,
+            "mempeak": "404524 KiB",
+            "cost": 22
+        },
+        "unweighted/mbd/b22_C-mbd14-0300.wcnf.xz": {
+            "status": true,
+            "rtime": 3.80275,
+            "mempeak": "405248 KiB",
+            "cost": 21
+        },
+        "unweighted/mbd/b21_C-mbd14-0203.wcnf.xz": {
+            "status": true,
+            "rtime": 3.50961,
+            "mempeak": "400348 KiB",
+            "cost": 27
+        },
+        "unweighted/mbd/b20_C-mbd14-0251.wcnf.xz": {
+            "status": true,
+            "rtime": 2.29022,
+            "mempeak": "399212 KiB",
+            "cost": 22
+        },
+        "unweighted/mbd/b22_C-mbd14-0279.wcnf.xz": {
+            "status": true,
+            "rtime": 4.69502,
+            "mempeak": "405212 KiB",
+            "cost": 24
+        },
+        "unweighted/mbd/b20_C-mbd14-0202.wcnf.xz": {
+            "status": true,
+            "rtime": 2.20389,
+            "mempeak": "399344 KiB",
+            "cost": 21
+        },
+        "unweighted/mbd/b21_C-mbd14-0260.wcnf.xz": {
+            "status": true,
+            "rtime": 3.05664,
+            "mempeak": "399124 KiB",
+            "cost": 25
+        },
+        "unweighted/mbd/b20_C-mbd14-0332.wcnf.xz": {
+            "status": true,
+            "rtime": 6.93908,
+            "mempeak": "399372 KiB",
+            "cost": 22
+        },
+        "unweighted/mbd/b20_C-mbd14-0257.wcnf.xz": {
+            "status": true,
+            "rtime": 2.50097,
+            "mempeak": "399868 KiB",
+            "cost": 26
+        },
+        "unweighted/mbd/b21_C-mbd14-0236.wcnf.xz": {
+            "status": true,
+            "rtime": 19.3012,
+            "mempeak": "400096 KiB",
+            "cost": 21
+        },
+        "unweighted/mbd/b21_C-mbd14-0361.wcnf.xz": {
+            "status": true,
+            "rtime": 3.12689,
+            "mempeak": "399552 KiB",
+            "cost": 24
+        },
+        "unweighted/drmx-cryptogen/wolfram72_9.wcnf.xz": {
+            "status": true,
+            "rtime": 217.856,
+            "mempeak": "490100 KiB",
+            "cost": 9288
+        },
+        "unweighted/drmx-cryptogen/wolfram80_6.wcnf.xz": {
+            "status": true,
+            "rtime": 326.105,
+            "mempeak": "418748 KiB",
+            "cost": 11440
+        },
+        "unweighted/drmx-cryptogen/wolfram72_4.wcnf.xz": {
+            "status": true,
+            "rtime": 215.26,
+            "mempeak": "439552 KiB",
+            "cost": 9288
+        },
+        "unweighted/drmx-cryptogen/wolfram72_0.wcnf.xz": {
+            "status": true,
+            "rtime": 209.724,
+            "mempeak": "407864 KiB",
+            "cost": 9288
+        },
+        "unweighted/drmx-cryptogen/wolfram80_9.wcnf.xz": {
+            "status": true,
+            "rtime": 393.479,
+            "mempeak": "1169172 KiB",
+            "cost": 11440
+        },
+        "unweighted/drmx-cryptogen/geffe128_9.wcnf.xz": {
+            "status": true,
+            "rtime": 35.1038,
+            "mempeak": "434220 KiB",
+            "cost": 800
+        },
+        "unweighted/drmx-cryptogen/threshold128_4.wcnf.xz": {
+            "status": true,
+            "rtime": 23.9906,
+            "mempeak": "396348 KiB",
+            "cost": 800
+        },
+        "unweighted/drmx-cryptogen/wolfram80_0.wcnf.xz": {
+            "status": true,
+            "rtime": 329.2,
+            "mempeak": "466820 KiB",
+            "cost": 11440
+        },
+        "unweighted/security-witness/RSN_Security_Min_Witness-Direct-MBIST_5cores_100controllers_100memories_na-D3.wcnf.xz": {
+            "status": true,
+            "rtime": 646.937,
+            "mempeak": "5298336 KiB",
+            "cost": 43
+        },
+        "unweighted/security-witness/RSN_Security_Min_Witness-Direct-MBIST_100cores_100controllers_5memories_na-DA.wcnf.xz": {
+            "status": true,
+            "rtime": 235.225,
+            "mempeak": "4686652 KiB",
+            "cost": 24
+        },
+        "unweighted/security-witness/RSN_Security_Min_Witness-Direct-MBIST_5cores_100controllers_100memories_na-DC.wcnf.xz": {
+            "status": true,
+            "rtime": 623.311,
+            "mempeak": "5345584 KiB",
+            "cost": 45
+        },
+        "unweighted/security-witness/RSN_Security_Min_Witness-Direct-FlexScan-D6.wcnf.xz": {
+            "status": true,
+            "rtime": 17.5948,
+            "mempeak": "736880 KiB",
+            "cost": 9
+        },
+        "unweighted/security-witness/RSN_Security_Min_Witness-Direct-FlexScan-D2.wcnf.xz": {
+            "status": true,
+            "rtime": 63.95,
+            "mempeak": "738152 KiB",
+            "cost": 9
+        },
+        "unweighted/security-witness/RSN_Security_Min_Witness-Direct-MBIST_100cores_100controllers_5memories_na-D5.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "11185908 KiB"
+        },
+        "unweighted/security-witness/RSN_Security_Min_Witness-Direct-MBIST_100cores_100controllers_5memories_na-D9.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "11185276 KiB"
+        },
+        "unweighted/security-witness/RSN_Security_Min_Witness-Direct-MBIST_5cores_100controllers_100memories_na-DB.wcnf.xz": {
+            "status": true,
+            "rtime": 646.942,
+            "mempeak": "5337196 KiB",
+            "cost": 43
+        },
+        "unweighted/security-witness/RSN_Security_Min_Witness-Direct-FlexScan-D7.wcnf.xz": {
+            "status": true,
+            "rtime": 17.7543,
+            "mempeak": "736936 KiB",
+            "cost": 9
+        },
+        "unweighted/security-witness/RSN_Security_Min_Witness-Direct-FlexScan-D3.wcnf.xz": {
+            "status": true,
+            "rtime": 66.9377,
+            "mempeak": "737400 KiB",
+            "cost": 9
+        },
+        "unweighted/security-witness/RSN_Security_Min_Witness-Direct-MBIST_5cores_100controllers_100memories_na-DF.wcnf.xz": {
+            "status": true,
+            "rtime": 643.775,
+            "mempeak": "5298316 KiB",
+            "cost": 43
+        },
+        "unweighted/security-witness/RSN_Security_Min_Witness-Direct-MBIST_100cores_100controllers_5memories_na-D4.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "11185312 KiB"
+        },
+        "unweighted/security-witness/RSN_Security_Min_Witness-Direct-MBIST_5cores_100controllers_100memories_na-D2.wcnf.xz": {
+            "status": true,
+            "rtime": 643.319,
+            "mempeak": "5309340 KiB",
+            "cost": 43
+        },
+        "unweighted/security-witness/RSN_Security_Min_Witness-Direct-FlexScan-DC.wcnf.xz": {
+            "status": true,
+            "rtime": 64.2121,
+            "mempeak": "737812 KiB",
+            "cost": 9
+        },
+        "unweighted/security-witness/RSN_Security_Min_Witness-Direct-MBIST_5cores_100controllers_100memories_na-D6.wcnf.xz": {
+            "status": true,
+            "rtime": 645.111,
+            "mempeak": "5337000 KiB",
+            "cost": 43
+        },
+        "unweighted/security-witness/RSN_Security_Min_Witness-Direct-MBIST_55cores_20controllers_5memories_na-DC.wcnf.xz": {
+            "status": true,
+            "rtime": 23.7881,
+            "mempeak": "813780 KiB",
+            "cost": 22
+        },
+        "unweighted/security-witness/RSN_Security_Min_Witness-Direct-MBIST_100cores_100controllers_5memories_na-D2.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "11194912 KiB"
+        },
+        "unweighted/security-witness/RSN_Security_Min_Witness-Direct-MBIST_100cores_100controllers_5memories_na-D6.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "10550032 KiB"
+        },
+        "unweighted/security-witness/RSN_Security_Min_Witness-Direct-FlexScan-D5.wcnf.xz": {
+            "status": true,
+            "rtime": 64.5588,
+            "mempeak": "737092 KiB",
+            "cost": 9
+        },
+        "unweighted/security-witness/RSN_Security_Min_Witness-Direct-FlexScan-D1.wcnf.xz": {
+            "status": true,
+            "rtime": 17.9059,
+            "mempeak": "739724 KiB",
+            "cost": 9
+        },
+        "unweighted/security-witness/RSN_Security_Min_Witness-Direct-MBIST_5cores_100controllers_100memories_na-D8.wcnf.xz": {
+            "status": true,
+            "rtime": 644.374,
+            "mempeak": "5298344 KiB",
+            "cost": 43
+        },
+        "unweighted/security-witness/RSN_Security_Min_Witness-Direct-p93791-D7.wcnf.xz": {
+            "status": true,
+            "rtime": 2.08103,
+            "mempeak": "410524 KiB",
+            "cost": 8
+        },
+        "unweighted/security-witness/RSN_Security_Min_Witness-Direct-MBIST_100cores_100controllers_5memories_na-DC.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "11187040 KiB"
+        },
+        "unweighted/security-witness/RSN_Security_Min_Witness-Direct-MBIST_5cores_100controllers_100memories_na-D1.wcnf.xz": {
+            "status": true,
+            "rtime": 641.994,
+            "mempeak": "5298416 KiB",
+            "cost": 43
+        },
+        "unweighted/security-witness/RSN_Security_Min_Witness-Direct-FlexScan-DD.wcnf.xz": {
+            "status": true,
+            "rtime": 17.5926,
+            "mempeak": "736892 KiB",
+            "cost": 9
+        },
+        "unweighted/security-witness/RSN_Security_Min_Witness-Direct-MBIST_5cores_100controllers_100memories_na-D5.wcnf.xz": {
+            "status": true,
+            "rtime": 648.918,
+            "mempeak": "5309556 KiB",
+            "cost": 43
+        },
+        "unweighted/security-witness/RSN_Security_Min_Witness-Direct-MBIST_100cores_100controllers_5memories_na-D7.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "11194916 KiB"
+        },
+        "unweighted/security-witness/RSN_Security_Min_Witness-Direct-FlexScan-D8.wcnf.xz": {
+            "status": true,
+            "rtime": 17.6457,
+            "mempeak": "736880 KiB",
+            "cost": 9
+        },
+        "unweighted/security-witness/RSN_Security_Min_Witness-Direct-MBIST_5cores_100controllers_100memories_na-DA.wcnf.xz": {
+            "status": true,
+            "rtime": 645.29,
+            "mempeak": "5309924 KiB",
+            "cost": 43
+        },
+        "unweighted/security-witness/RSN_Security_Min_Witness-Direct-MBIST_5cores_100controllers_100memories_na-DE.wcnf.xz": {
+            "status": true,
+            "rtime": 647.094,
+            "mempeak": "5309312 KiB",
+            "cost": 43
+        },
+        "unweighted/ramsey/ram_k3_n17.ra0.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "395008 KiB"
+        },
+        "unweighted/ramsey/ram_k3_n18.ra0.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "378984 KiB"
+        },
+        "unweighted/ramsey/ram_k4_n19.ra0.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "553872 KiB"
+        },
+        "unweighted/ramsey/ram_k3_n15.ra0.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "375640 KiB"
+        },
+        "unweighted/ramsey/ram_k3_n11.ra0.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "368460 KiB"
+        },
+        "unweighted/ramsey/ram_k3_n12.ra0.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "372440 KiB"
+        },
+        "unweighted/ramsey/ram_k4_n18.ra0.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "583540 KiB"
+        },
+        "unweighted/ramsey/ram_k3_n19.ra0.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "402516 KiB"
+        },
+        "unweighted/ramsey/ram_k3_n16.ra0.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "379524 KiB"
+        },
+        "unweighted/ramsey/ram_k3_n9.ra0.wcnf.xz": {
+            "status": true,
+            "rtime": 1.34608,
+            "mempeak": "333256 KiB",
+            "cost": 1
+        },
+        "unweighted/ramsey/ram_k3_n14.ra0.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "378504 KiB"
+        },
+        "unweighted/SeanSafarpour/rsdecoder4.dimacs.filtered.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "24329868 KiB"
+        },
+        "unweighted/SeanSafarpour/rsdecoder-problem.dimacs_34.filtered.wcnf.xz": {
+            "status": true,
+            "rtime": 29.5628,
+            "mempeak": "1167612 KiB",
+            "cost": 1
+        },
+        "unweighted/SeanSafarpour/wb_4m8s-problem.dimacs_47.filtered.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "9444512 KiB"
+        },
+        "unweighted/SeanSafarpour/c6288-bug-gate-0.dimacs.seq.filtered.wcnf.xz": {
+            "status": true,
+            "rtime": 1.95084,
+            "mempeak": "337096 KiB",
+            "cost": 1
+        },
+        "unweighted/SeanSafarpour/fpu3-problem.dimacs_18.filtered.wcnf.xz": {
+            "status": true,
+            "rtime": 16.7564,
+            "mempeak": "738672 KiB",
+            "cost": 1
+        },
+        "unweighted/SeanSafarpour/rsdecoder1_blackbox_KESblock-problem.dimacs_30.filtered.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "10127004 KiB"
+        },
+        "unweighted/SeanSafarpour/c5315-bug-gate-0.dimacs.seq.filtered.wcnf.xz": {
+            "status": true,
+            "rtime": 0.335184,
+            "mempeak": "113288 KiB",
+            "cost": 1
+        },
+        "unweighted/SeanSafarpour/rsdecoder-problem.dimacs_31.filtered.wcnf.xz": {
+            "status": true,
+            "rtime": 188.066,
+            "mempeak": "4962688 KiB",
+            "cost": 1
+        },
+        "unweighted/SeanSafarpour/rsdecoder_multivec1-problem.dimacs_33.filtered.wcnf.xz": {
+            "status": true,
+            "rtime": 117.537,
+            "mempeak": "2538056 KiB",
+            "cost": 4
+        },
+        "unweighted/SeanSafarpour/divider-problem.dimacs_5.filtered.wcnf.xz": {
+            "status": true,
+            "rtime": 147.746,
+            "mempeak": "1300828 KiB",
+            "cost": 2
+        },
+        "unweighted/SeanSafarpour/rsdecoder1_blackbox_CSEEblock-problem.dimacs_32.filtered.wcnf.xz": {
+            "status": true,
+            "rtime": 297.018,
+            "mempeak": "1711636 KiB",
+            "cost": 4
+        },
+        "unweighted/SeanSafarpour/c2_DD_s3_f1_e2_v1-bug-onevec-gate-0.dimacs.seq.filtered.wcnf.xz": {
+            "status": true,
+            "rtime": 9.91362,
+            "mempeak": "566732 KiB",
+            "cost": 1
+        },
+        "unweighted/SeanSafarpour/rsdecoder2.dimacs.filtered.wcnf.xz": {
+            "status": true,
+            "rtime": 77.8874,
+            "mempeak": "2393908 KiB",
+            "cost": 1
+        },
+        "unweighted/SeanSafarpour/c5_DD_s3_f1_e1_v1-bug-fourvec-gate-0.dimacs.seq.filtered.wcnf.xz": {
+            "status": true,
+            "rtime": 11.3751,
+            "mempeak": "594480 KiB",
+            "cost": 4
+        },
+        "unweighted/SeanSafarpour/dividers4.dimacs.filtered.wcnf.xz": {
+            "status": true,
+            "rtime": 7.15949,
+            "mempeak": "487868 KiB",
+            "cost": 2
+        },
+        "unweighted/fault-diagnosis/s01423_nan_explicit_9_0.wcnf.xz": {
+            "status": true,
+            "rtime": 2.31877,
+            "mempeak": "414264 KiB",
+            "cost": 70
+        },
+        "unweighted/fault-diagnosis/s38584_nan_explicit_29_0.wcnf.xz": {
+            "status": true,
+            "rtime": 68.3343,
+            "mempeak": "603376 KiB",
+            "cost": 200
+        },
+        "unweighted/fault-diagnosis/s38417_nan_explicit_13_0.wcnf.xz": {
+            "status": true,
+            "rtime": 5.21178,
+            "mempeak": "445120 KiB",
+            "cost": 67
+        },
+        "unweighted/fault-diagnosis/s38417_nan_explicit_16_0.wcnf.xz": {
+            "status": true,
+            "rtime": 3.83087,
+            "mempeak": "430332 KiB",
+            "cost": 69
+        },
+        "unweighted/fault-diagnosis/s38584_nan_explicit_14_0.wcnf.xz": {
+            "status": true,
+            "rtime": 480.003,
+            "mempeak": "689896 KiB",
+            "cost": 202
+        },
+        "unweighted/fault-diagnosis/s38584_nan_explicit_12_0.wcnf.xz": {
+            "status": true,
+            "rtime": 192.447,
+            "mempeak": "643964 KiB",
+            "cost": 191
+        },
+        "unweighted/fault-diagnosis/s38584_nan_explicit_35_0.wcnf.xz": {
+            "status": true,
+            "rtime": 69.548,
+            "mempeak": "555892 KiB",
+            "cost": 183
+        },
+        "unweighted/fault-diagnosis/s00641_nan_explicit_3_0.wcnf.xz": {
+            "status": true,
+            "rtime": 1.41397,
+            "mempeak": "403248 KiB",
+            "cost": 58
+        },
+        "unweighted/fault-diagnosis/s38584_nan_explicit_47_0.wcnf.xz": {
+            "status": true,
+            "rtime": 44.9814,
+            "mempeak": "542820 KiB",
+            "cost": 154
+        },
+        "unweighted/fault-diagnosis/s38584_nan_explicit_30_0.wcnf.xz": {
+            "status": true,
+            "rtime": 82.1326,
+            "mempeak": "589544 KiB",
+            "cost": 200
+        },
+        "unweighted/extension-enforcement/extension-enforcement_strict_com_200_0.1_2_20_2.wcnf.xz": {
+            "status": true,
+            "rtime": 24.1379,
+            "mempeak": "560696 KiB",
+            "cost": 15
+        },
+        "unweighted/extension-enforcement/extension-enforcement_non-strict_stb_200_0.05_1_10_2.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "937384 KiB"
+        },
+        "unweighted/extension-enforcement/extension-enforcement_strict_com_150_0.1_2_15_0.wcnf.xz": {
+            "status": true,
+            "rtime": 11.41,
+            "mempeak": "457468 KiB",
+            "cost": 26
+        },
+        "unweighted/extension-enforcement/extension-enforcement_non-strict_stb_200_0.1_2_10_1.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "806304 KiB"
+        },
+        "unweighted/extension-enforcement/extension-enforcement_non-strict_stb_200_0.05_4_10_2.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "914840 KiB"
+        },
+        "unweighted/extension-enforcement/extension-enforcement_strict_com_200_0.05_4_20_4.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "733756 KiB"
+        },
+        "unweighted/extension-enforcement/extension-enforcement_non-strict_stb_200_0.05_4_10_1.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "1134328 KiB"
+        },
+        "unweighted/extension-enforcement/extension-enforcement_strict_com_200_0.2_1_10_0.wcnf.xz": {
+            "status": true,
+            "rtime": 14.8816,
+            "mempeak": "489236 KiB",
+            "cost": 16
+        },
+        "unweighted/extension-enforcement/extension-enforcement_strict_com_150_0.05_3_30_2.wcnf.xz": {
+            "status": true,
+            "rtime": 20.9071,
+            "mempeak": "490068 KiB",
+            "cost": 28
+        },
+        "unweighted/extension-enforcement/extension-enforcement_non-strict_stb_150_0.05_2_8_4.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "883448 KiB"
+        },
+        "unweighted/extension-enforcement/extension-enforcement_non-strict_stb_200_0.05_3_10_1.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "1326884 KiB"
+        },
+        "unweighted/drmx-atmostk/drmx-am16-outof-45-etot.wcnf.xz": {
+            "status": true,
+            "rtime": 2.09328,
+            "mempeak": "330988 KiB",
+            "cost": 29
+        },
+        "unweighted/drmx-atmostk/drmx-am20-outof-50-emtot.wcnf.xz": {
+            "status": true,
+            "rtime": 12.4768,
+            "mempeak": "345224 KiB",
+            "cost": 30
+        },
+        "unweighted/drmx-atmostk/drmx-am32-outof-70-eseqc.wcnf.xz": {
+            "status": true,
+            "rtime": 8.34709,
+            "mempeak": "342576 KiB",
+            "cost": 38
+        },
+        "unweighted/drmx-atmostk/drmx-am16-outof-45-esortn.wcnf.xz": {
+            "status": true,
+            "rtime": 3.8465,
+            "mempeak": "334964 KiB",
+            "cost": 29
+        },
+        "unweighted/drmx-atmostk/drmx-am24-outof-55-ecardn.wcnf.xz": {
+            "status": true,
+            "rtime": 28.1416,
+            "mempeak": "349204 KiB",
+            "cost": 31
+        },
+        "unweighted/drmx-atmostk/drmx-am12-outof-40-ekmtot.wcnf.xz": {
+            "status": true,
+            "rtime": 1.50933,
+            "mempeak": "330576 KiB",
+            "cost": 28
+        },
+        "unweighted/drmx-atmostk/drmx-am32-outof-70-ekmtot.wcnf.xz": {
+            "status": true,
+            "rtime": 71.8633,
+            "mempeak": "358976 KiB",
+            "cost": 38
+        },
+        "unweighted/drmx-atmostk/drmx-am24-outof-55-eseqc.wcnf.xz": {
+            "status": true,
+            "rtime": 1.73437,
+            "mempeak": "331376 KiB",
+            "cost": 31
+        },
+        "unweighted/drmx-atmostk/drmx-am20-outof-50-esortn.wcnf.xz": {
+            "status": true,
+            "rtime": 91.3097,
+            "mempeak": "358784 KiB",
+            "cost": 30
+        },
+        "unweighted/drmx-atmostk/drmx-am20-outof-50-etot.wcnf.xz": {
+            "status": true,
+            "rtime": 11.7663,
+            "mempeak": "344352 KiB",
+            "cost": 30
+        },
+        "unweighted/drmx-atmostk/drmx-am24-outof-55-ekmtot.wcnf.xz": {
+            "status": true,
+            "rtime": 8.16485,
+            "mempeak": "352144 KiB",
+            "cost": 31
+        },
+        "unweighted/drmx-atmostk/drmx-am12-outof-40-etot.wcnf.xz": {
+            "status": true,
+            "rtime": 0.919048,
+            "mempeak": "330012 KiB",
+            "cost": 28
+        },
+        "unweighted/drmx-atmostk/drmx-am12-outof-40-emtot.wcnf.xz": {
+            "status": true,
+            "rtime": 1.5025,
+            "mempeak": "330624 KiB",
+            "cost": 28
+        },
+        "unweighted/drmx-atmostk/drmx-am24-outof-55-emtot.wcnf.xz": {
+            "status": true,
+            "rtime": 26.4916,
+            "mempeak": "344892 KiB",
+            "cost": 31
+        },
+        "unweighted/gen-hyper-tw/GenHyperTW_dubois29.wcnf.xz": {
+            "status": true,
+            "rtime": 974.044,
+            "mempeak": "996376 KiB",
+            "cost": 2
+        },
+        "unweighted/gen-hyper-tw/GenHyperTW_hole9.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "1806120 KiB"
+        },
+        "unweighted/gen-hyper-tw/GenHyperTW_aim-50-2_0-yes1-3.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "638520 KiB"
+        },
+        "unweighted/gen-hyper-tw/GenHyperTW_dubois30.wcnf.xz": {
+            "status": true,
+            "rtime": 1389.12,
+            "mempeak": "1030736 KiB",
+            "cost": 2
+        },
+        "unweighted/gen-hyper-tw/GenHyperTW_par8-4-c.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "930716 KiB"
+        },
+        "unweighted/gen-hyper-tw/GenHyperTW_dubois24.wcnf.xz": {
+            "status": true,
+            "rtime": 486.748,
+            "mempeak": "780864 KiB",
+            "cost": 2
+        },
+        "unweighted/gen-hyper-tw/GenHyperTW_dubois20.wcnf.xz": {
+            "status": true,
+            "rtime": 525.921,
+            "mempeak": "599640 KiB",
+            "cost": 2
+        },
+        "unweighted/gen-hyper-tw/GenHyperTW_s27.wcnf.xz": {
+            "status": true,
+            "rtime": 0.325807,
+            "mempeak": "113288 KiB",
+            "cost": 2
+        },
+        "unweighted/gen-hyper-tw/GenHyperTW_b06.wcnf.xz": {
+            "status": true,
+            "rtime": 438.819,
+            "mempeak": "486316 KiB",
+            "cost": 4
+        },
+        "unweighted/gen-hyper-tw/GenHyperTW_dubois27.wcnf.xz": {
+            "status": true,
+            "rtime": 1014.45,
+            "mempeak": "929632 KiB",
+            "cost": 2
+        },
+        "unweighted/gen-hyper-tw/GenHyperTW_flat30-99.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "1472292 KiB"
+        },
+        "unweighted/exploits-synthesis/flush_reload_min.wcnf.xz": {
+            "status": true,
+            "rtime": 551.055,
+            "mempeak": "4092984 KiB",
+            "cost": 45
+        },
+        "unweighted/exploits-synthesis/meltdown_min.wcnf.xz": {
+            "status": true,
+            "rtime": 2519.94,
+            "mempeak": "8768028 KiB",
+            "cost": 69
+        },
+        "unweighted/exploits-synthesis/spectre_min.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "15864040 KiB"
+        },
+        "unweighted/large-graph-commmunity/FOOTBALL.wcnf.xz": {
+            "status": true,
+            "rtime": 0.15058,
+            "mempeak": "113288 KiB",
+            "cost": 13
+        },
+        "unweighted/large-graph-commmunity/RISKMAP.wcnf.xz": {
+            "status": true,
+            "rtime": 0.123938,
+            "mempeak": "113288 KiB",
+            "cost": 9
+        },
+        "unweighted/large-graph-commmunity/DBLP.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "1164308 KiB"
+        },
+        "unweighted/large-graph-commmunity/RAILWAY.wcnf.xz": {
+            "status": true,
+            "rtime": 0.200862,
+            "mempeak": "113288 KiB",
+            "cost": 44
+        },
+        "unweighted/large-graph-commmunity/YOUTUBE.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "1333920 KiB"
+        },
+        "unweighted/large-graph-commmunity/AMAZON.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "999544 KiB"
+        },
+        "unweighted/large-graph-commmunity/POLITICSBOOK.wcnf.xz": {
+            "status": true,
+            "rtime": 0.143856,
+            "mempeak": "113288 KiB",
+            "cost": 17
+        },
+        "unweighted/large-graph-commmunity/KARATE.wcnf.xz": {
+            "status": true,
+            "rtime": 0.121392,
+            "mempeak": "113288 KiB",
+            "cost": 4
+        },
+        "unweighted/protein_ins/p1.wcnf.t.wcnf.xz": {
+            "status": true,
+            "rtime": 195.16,
+            "mempeak": "1069420 KiB",
+            "cost": 35
+        },
+        "unweighted/protein_ins/6ebx_.1era_.g.wcnf.t.wcnf.xz": {
+            "status": true,
+            "rtime": 97.6782,
+            "mempeak": "707312 KiB",
+            "cost": 30
+        },
+        "unweighted/protein_ins/1vii_.1cph_.g.wcnf.t.wcnf.xz": {
+            "status": true,
+            "rtime": 0.295867,
+            "mempeak": "113288 KiB",
+            "cost": 7
+        },
+        "unweighted/protein_ins/3ebx_.1era_.g.wcnf.t.wcnf.xz": {
+            "status": true,
+            "rtime": 230.699,
+            "mempeak": "1243936 KiB",
+            "cost": 34
+        },
+        "unweighted/protein_ins/2knt_.5pti_.g.wcnf.t.wcnf.xz": {
+            "status": true,
+            "rtime": 151.008,
+            "mempeak": "952492 KiB",
+            "cost": 32
+        },
+        "unweighted/protein_ins/sandiaprotein.g.wcnf.t.wcnf.xz": {
+            "status": true,
+            "rtime": 153.305,
+            "mempeak": "996484 KiB",
+            "cost": 28
+        },
+        "unweighted/protein_ins/1knt_.5pti_.g.wcnf.t.wcnf.xz": {
+            "status": true,
+            "rtime": 139.063,
+            "mempeak": "977636 KiB",
+            "cost": 29
+        },
+        "unweighted/protein_ins/1knt_.1bpi_.g.wcnf.t.wcnf.xz": {
+            "status": true,
+            "rtime": 151.899,
+            "mempeak": "1088956 KiB",
+            "cost": 35
+        },
+        "unweighted/protein_ins/1bpi_.5pti_.g.wcnf.t.wcnf.xz": {
+            "status": true,
+            "rtime": 115.875,
+            "mempeak": "1441968 KiB",
+            "cost": 29
+        },
+        "unweighted/protein_ins/1bpi_.2knt_.g.wcnf.t.wcnf.xz": {
+            "status": true,
+            "rtime": 375.91,
+            "mempeak": "1132264 KiB",
+            "cost": 35
+        },
+        "unweighted/protein_ins/1knt_.2knt_.g.wcnf.t.wcnf.xz": {
+            "status": true,
+            "rtime": 20.313,
+            "mempeak": "654376 KiB",
+            "cost": 16
+        },
+        "unweighted/protein_ins/3ebx_.6ebx_.g.wcnf.t.wcnf.xz": {
+            "status": true,
+            "rtime": 32.7693,
+            "mempeak": "693480 KiB",
+            "cost": 23
+        },
+        "unweighted/reversi/rev66-32.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "629628 KiB"
+        },
+        "unweighted/reversi/rev66-4.wcnf.xz": {
+            "status": true,
+            "rtime": 0.48217,
+            "mempeak": "113288 KiB",
+            "cost": 34
+        },
+        "unweighted/reversi/rev66-26.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "567988 KiB"
+        },
+        "unweighted/reversi/rev44-4.wcnf.xz": {
+            "status": true,
+            "rtime": 0.196275,
+            "mempeak": "113288 KiB",
+            "cost": 14
+        },
+        "unweighted/reversi/rev44-8.wcnf.xz": {
+            "status": true,
+            "rtime": 0.817615,
+            "mempeak": "330980 KiB",
+            "cost": 8
+        },
+        "unweighted/reversi/rev66-14.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "439620 KiB"
+        },
+        "unweighted/reversi/rev66-24.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "511536 KiB"
+        },
+        "unweighted/reversi/rev66-20.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "493860 KiB"
+        },
+        "unweighted/reversi/rev66-16.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "423272 KiB"
+        },
+        "unweighted/reversi/rev44-12.wcnf.xz": {
+            "status": true,
+            "rtime": 1.25308,
+            "mempeak": "332004 KiB",
+            "cost": 2
+        },
+        "unweighted/RBAC-violations-multiple/role_domino_violations_0.0_13.wcnf.xz": {
+            "status": true,
+            "rtime": 21.1122,
+            "mempeak": "680732 KiB",
+            "cost": 6
+        },
+        "unweighted/RBAC-violations-multiple/role_domino_multiple_0.0_8.wcnf.xz": {
+            "status": true,
+            "rtime": 94.1534,
+            "mempeak": "839300 KiB",
+            "cost": 63
+        },
+        "unweighted/RBAC-violations-multiple/role_domino_violations_0.0_17.wcnf.xz": {
+            "status": true,
+            "rtime": 21.3653,
+            "mempeak": "680740 KiB",
+            "cost": 6
+        },
+        "unweighted/RBAC-violations-multiple/role_domino_violations_0.0_6.wcnf.xz": {
+            "status": true,
+            "rtime": 20.9985,
+            "mempeak": "680736 KiB",
+            "cost": 4
+        },
+        "unweighted/RBAC-violations-multiple/role_domino_multiple_0.0_4.wcnf.xz": {
+            "status": true,
+            "rtime": 79.1311,
+            "mempeak": "840440 KiB",
+            "cost": 55
+        },
+        "unweighted/RBAC-violations-multiple/role_smallcomp_violations_0.0_10.wcnf.xz": {
+            "status": true,
+            "rtime": 0.161937,
+            "mempeak": "113288 KiB",
+            "cost": 2
+        },
+        "unweighted/RBAC-violations-multiple/role_smallcomp_violations_0.0_3.wcnf.xz": {
+            "status": true,
+            "rtime": 0.162165,
+            "mempeak": "113288 KiB",
+            "cost": 2
+        },
+        "unweighted/RBAC-violations-multiple/role_smallcomp_multiple_0.0_2.wcnf.xz": {
+            "status": true,
+            "rtime": 0.511642,
+            "mempeak": "113288 KiB",
+            "cost": 36
+        },
+        "unweighted/RBAC-violations-multiple/role_smallcomp_violations_0.0_11.wcnf.xz": {
+            "status": true,
+            "rtime": 0.160978,
+            "mempeak": "113288 KiB",
+            "cost": 2
+        },
+        "unweighted/RBAC-violations-multiple/role_smallcomp_violations_0.0_2.wcnf.xz": {
+            "status": true,
+            "rtime": 0.16091,
+            "mempeak": "113288 KiB",
+            "cost": 4
+        },
+        "unweighted/RBAC-violations-multiple/role_smallcomp_violations_0.0_6.wcnf.xz": {
+            "status": true,
+            "rtime": 0.162868,
+            "mempeak": "113288 KiB",
+            "cost": 4
+        },
+        "unweighted/RBAC-violations-multiple/role_domino_multiple_0.0_1.wcnf.xz": {
+            "status": true,
+            "rtime": 97.5173,
+            "mempeak": "851236 KiB",
+            "cost": 73
+        },
+        "unweighted/RBAC-violations-multiple/role_domino_violations_0.0_3.wcnf.xz": {
+            "status": true,
+            "rtime": 21.2528,
+            "mempeak": "680712 KiB",
+            "cost": 5
+        },
+        "unweighted/RBAC-violations-multiple/role_domino_multiple_0.0_5.wcnf.xz": {
+            "status": true,
+            "rtime": 85.4065,
+            "mempeak": "862148 KiB",
+            "cost": 63
+        },
+        "unweighted/RBAC-violations-multiple/role_domino_violations_0.0_12.wcnf.xz": {
+            "status": true,
+            "rtime": 21.1967,
+            "mempeak": "680748 KiB",
+            "cost": 1
+        },
+        "unweighted/RBAC-violations-multiple/role_domino_multiple_0.0_9.wcnf.xz": {
+            "status": true,
+            "rtime": 74.7819,
+            "mempeak": "872896 KiB",
+            "cost": 64
+        },
+        "unweighted/RBAC-violations-multiple/role_domino_violations_0.0_16.wcnf.xz": {
+            "status": true,
+            "rtime": 21.1946,
+            "mempeak": "680728 KiB",
+            "cost": 2
+        },
+        "unweighted/RBAC-violations-multiple/role_smallcomp_multiple_0.0_5.wcnf.xz": {
+            "status": true,
+            "rtime": 0.327986,
+            "mempeak": "113288 KiB",
+            "cost": 21
+        },
+        "unweighted/RBAC-violations-multiple/role_smallcomp_multiple_0.0_1.wcnf.xz": {
+            "status": true,
+            "rtime": 0.408753,
+            "mempeak": "113288 KiB",
+            "cost": 32
+        },
+        "unweighted/RBAC-violations-multiple/role_smallcomp_violations_0.0_4.wcnf.xz": {
+            "status": true,
+            "rtime": 0.161542,
+            "mempeak": "113288 KiB",
+            "cost": 1
+        },
+        "unweighted/RBAC-violations-multiple/role_domino_multiple_0.0_3.wcnf.xz": {
+            "status": true,
+            "rtime": 68.2468,
+            "mempeak": "828440 KiB",
+            "cost": 45
+        },
+        "unweighted/RBAC-violations-multiple/role_domino_violations_0.0_5.wcnf.xz": {
+            "status": true,
+            "rtime": 21.4888,
+            "mempeak": "680740 KiB",
+            "cost": 7
+        },
+        "unweighted/RBAC-violations-multiple/role_domino_violations_0.0_10.wcnf.xz": {
+            "status": true,
+            "rtime": 21.2287,
+            "mempeak": "680712 KiB",
+            "cost": 5
+        },
+        "unweighted/RBAC-violations-multiple/role_domino_violations_0.0_8.wcnf.xz": {
+            "status": true,
+            "rtime": 21.5365,
+            "mempeak": "680740 KiB",
+            "cost": 6
+        },
+        "unweighted/RBAC-violations-multiple/role_domino_violations_0.0_15.wcnf.xz": {
+            "status": true,
+            "rtime": 21.1052,
+            "mempeak": "680728 KiB",
+            "cost": 6
+        },
+        "unweighted/RBAC-violations-multiple/role_domino_violations_0.0_4.wcnf.xz": {
+            "status": true,
+            "rtime": 21.2754,
+            "mempeak": "680012 KiB",
+            "cost": 5
+        },
+        "unweighted/RBAC-violations-multiple/role_domino_multiple_0.0_6.wcnf.xz": {
+            "status": true,
+            "rtime": 84.4296,
+            "mempeak": "869868 KiB",
+            "cost": 69
+        },
+        "unweighted/RBAC-violations-multiple/role_smallcomp_multiple_0.0_8.wcnf.xz": {
+            "status": true,
+            "rtime": 0.426106,
+            "mempeak": "113288 KiB",
+            "cost": 23
+        },
+        "unweighted/RBAC-violations-multiple/role_smallcomp_violations_0.0_1.wcnf.xz": {
+            "status": true,
+            "rtime": 0.162068,
+            "mempeak": "113288 KiB",
+            "cost": 3
+        },
+        "unweighted/RBAC-violations-multiple/role_smallcomp_multiple_0.0_0.wcnf.xz": {
+            "status": true,
+            "rtime": 0.335622,
+            "mempeak": "113288 KiB",
+            "cost": 22
+        },
+        "unweighted/program_disambiguation/Q47_YESNO_3.wcnf.xz": {
+            "status": true,
+            "rtime": 12.5751,
+            "mempeak": "575224 KiB",
+            "cost": 1
+        },
+        "unweighted/program_disambiguation/Q17_OPTIONS_1.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "2543472 KiB"
+        },
+        "unweighted/program_disambiguation/Q17_YESNO_2.wcnf.xz": {
+            "status": true,
+            "rtime": 35.3407,
+            "mempeak": "1072852 KiB",
+            "cost": 1
+        },
+        "unweighted/program_disambiguation/Q38_YESNO_2.wcnf.xz": {
+            "status": true,
+            "rtime": 32.6276,
+            "mempeak": "1003324 KiB",
+            "cost": 1
+        },
+        "unweighted/program_disambiguation/Q14_YESNO_2.wcnf.xz": {
+            "status": true,
+            "rtime": 6.90936,
+            "mempeak": "480440 KiB",
+            "cost": 1
+        },
+        "unweighted/program_disambiguation/Q16_OPTIONS_1.wcnf.xz": {
+            "status": true,
+            "rtime": 2212.41,
+            "mempeak": "2165136 KiB",
+            "cost": 21
+        },
+        "unweighted/program_disambiguation/Q15_YESNO_2.wcnf.xz": {
+            "status": true,
+            "rtime": 12.7018,
+            "mempeak": "611732 KiB",
+            "cost": 1
+        },
+        "unweighted/program_disambiguation/Q55_YESNO_1.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "2001820 KiB"
+        },
+        "unweighted/program_disambiguation/Q11_OPTIONS_2.wcnf.xz": {
+            "status": true,
+            "rtime": 6.52358,
+            "mempeak": "423704 KiB",
+            "cost": 1
+        },
+        "unweighted/program_disambiguation/Q41_YESNO_2.wcnf.xz": {
+            "status": true,
+            "rtime": 27.9269,
+            "mempeak": "782092 KiB",
+            "cost": 1
+        },
+        "unweighted/program_disambiguation/Q45_YESNO_1.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "2358952 KiB"
+        },
+        "unweighted/program_disambiguation/Q42_OPTIONS_1.wcnf.xz": {
+            "status": true,
+            "rtime": 2617.94,
+            "mempeak": "1606752 KiB",
+            "cost": 4
+        },
+        "unweighted/program_disambiguation/Q42_YESNO_3.wcnf.xz": {
+            "status": true,
+            "rtime": 6.95158,
+            "mempeak": "480120 KiB",
+            "cost": 1
+        },
+        "unweighted/program_disambiguation/Q16_YESNO_1.wcnf.xz": {
+            "status": true,
+            "rtime": 1831.92,
+            "mempeak": "2168996 KiB",
+            "cost": 4
+        },
+        "unweighted/program_disambiguation/Q11_YESNO_3.wcnf.xz": {
+            "status": true,
+            "rtime": 5.39254,
+            "mempeak": "423348 KiB",
+            "cost": 2
+        },
+        "unweighted/program_disambiguation/Q27_YESNO_1.wcnf.xz": {
+            "status": true,
+            "rtime": 123.35,
+            "mempeak": "1662464 KiB",
+            "cost": 2
+        },
+        "unweighted/program_disambiguation/Q20_OPTIONS_1.wcnf.xz": {
+            "status": true,
+            "rtime": 916.587,
+            "mempeak": "2506684 KiB",
+            "cost": 1
+        },
+        "unweighted/program_disambiguation/Q53_YESNO_2.wcnf.xz": {
+            "status": true,
+            "rtime": 18.774,
+            "mempeak": "730512 KiB",
+            "cost": 1
+        },
+        "unweighted/program_disambiguation/Q14_OPTIONS_1.wcnf.xz": {
+            "status": true,
+            "rtime": 60.5265,
+            "mempeak": "830012 KiB",
+            "cost": 1
+        },
+        "unweighted/set_cover_sts/data.405.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "409832 KiB"
+        },
+        "unweighted/set_cover_sts/data.243.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "421196 KiB"
+        },
+        "unweighted/set_cover_sts/data.135.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "413572 KiB"
+        },
+        "unweighted/set_cover_sts/data.729.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "430068 KiB"
+        },
+        "unweighted/MaxSATQueriesinInterpretableClassifiers/iris_test_1_DNF_5_1.wcnf.xz": {
+            "status": true,
+            "rtime": 0.122881,
+            "mempeak": "113288 KiB",
+            "cost": 10
+        },
+        "unweighted/MaxSATQueriesinInterpretableClassifiers/ilpd_test_2_CNF_4_1.wcnf.xz": {
+            "status": true,
+            "rtime": 0.141898,
+            "mempeak": "113288 KiB",
+            "cost": 23
+        },
+        "unweighted/MaxSATQueriesinInterpretableClassifiers/ionosphere_test_0_DNF_5_1.wcnf.xz": {
+            "status": true,
+            "rtime": 0.214629,
+            "mempeak": "113288 KiB",
+            "cost": 38
+        },
+        "unweighted/MaxSATQueriesinInterpretableClassifiers/heart_train_0_CNF_4_1.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "395004 KiB"
+        },
+        "unweighted/MaxSATQueriesinInterpretableClassifiers/adult_test_6_CNF_4_1.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "475240 KiB"
+        },
+        "unweighted/MaxSATQueriesinInterpretableClassifiers/twitter_test_1_CNF_4_1.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "755844 KiB"
+        },
+        "unweighted/MaxSATQueriesinInterpretableClassifiers/pima_train_8_DNF_1_1.wcnf.xz": {
+            "status": true,
+            "rtime": 0.366491,
+            "mempeak": "113288 KiB",
+            "cost": 170
+        },
+        "unweighted/treewidth-computation/TWComp_david-pp_N29.wcnf.xz": {
+            "status": true,
+            "rtime": 1.66209,
+            "mempeak": "399520 KiB",
+            "cost": 13
+        },
+        "unweighted/treewidth-computation/TWComp_barley-pp_N26.wcnf.xz": {
+            "status": true,
+            "rtime": 0.941885,
+            "mempeak": "396292 KiB",
+            "cost": 7
+        },
+        "unweighted/treewidth-computation/TWComp_oesoca4_N42.wcnf.xz": {
+            "status": true,
+            "rtime": 3.00091,
+            "mempeak": "423624 KiB",
+            "cost": 3
+        },
+        "unweighted/treewidth-computation/TWComp_mildew_35.wcnf.xz": {
+            "status": true,
+            "rtime": 1.82518,
+            "mempeak": "408896 KiB",
+            "cost": 4
+        },
+        "unweighted/treewidth-computation/TWComp_david_N87.wcnf.xz": {
+            "status": true,
+            "rtime": 43.2105,
+            "mempeak": "835456 KiB",
+            "cost": 13
+        },
+        "unweighted/treewidth-computation/TWComp_mulsol.i.5-pp_N119.wcnf.xz": {
+            "status": true,
+            "rtime": 854.161,
+            "mempeak": "1741336 KiB",
+            "cost": 31
+        },
+        "unweighted/treewidth-computation/TWComp_mainuk_N48.wcnf.xz": {
+            "status": true,
+            "rtime": 4.49992,
+            "mempeak": "441468 KiB",
+            "cost": 7
+        },
+        "unweighted/treewidth-computation/TWComp_barley2_N48.wcnf.xz": {
+            "status": true,
+            "rtime": 6.68824,
+            "mempeak": "441028 KiB",
+            "cost": 7
+        },
+        "unweighted/treewidth-computation/TWComp_1dp_N76.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "846816 KiB"
+        },
+        "unweighted/treewidth-computation/TWComp_eil51.tsp_N51.wcnf.xz": {
+            "status": true,
+            "rtime": 995.291,
+            "mempeak": "590240 KiB",
+            "cost": 8
+        },
+        "unweighted/treewidth-computation/TWComp_oesoca_N39.wcnf.xz": {
+            "status": true,
+            "rtime": 2.4048,
+            "mempeak": "416712 KiB",
+            "cost": 3
+        },
+        "unweighted/treewidth-computation/TWComp_huck_N74.wcnf.xz": {
+            "status": true,
+            "rtime": 16.0945,
+            "mempeak": "627196 KiB",
+            "cost": 10
+        },
+        "unweighted/treewidth-computation/TWComp_hailfinder_N56.wcnf.xz": {
+            "status": true,
+            "rtime": 6.95714,
+            "mempeak": "472404 KiB",
+            "cost": 4
+        },
+        "unweighted/xai-mindset2/backache.wcnf.xz": {
+            "status": true,
+            "rtime": 1.8771,
+            "mempeak": "410804 KiB",
+            "cost": 85
+        },
+        "unweighted/xai-mindset2/heart-h.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "703496 KiB"
+        },
+        "unweighted/xai-mindset2/shuttleM.wcnf.xz": {
+            "status": true,
+            "rtime": 2081.53,
+            "mempeak": "8359064 KiB",
+            "cost": 127
+        },
+        "unweighted/xai-mindset2/liver-disorder.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "735816 KiB"
+        },
+        "unweighted/xai-mindset2/flags.wcnf.xz": {
+            "status": true,
+            "rtime": 1.34165,
+            "mempeak": "398944 KiB",
+            "cost": 8
+        },
+        "unweighted/xai-mindset2/hayes-roth.wcnf.xz": {
+            "status": true,
+            "rtime": 8.44483,
+            "mempeak": "346324 KiB",
+            "cost": 50
+        },
+        "unweighted/xai-mindset2/diabetes.wcnf.xz": {
+            "status": false,
+            "rtime": 3600.0,
+            "mempeak": "1125576 KiB"
+        },
+        "unweighted/xai-mindset2/zoo.wcnf.xz": {
+            "status": true,
+            "rtime": 0.251614,
+            "mempeak": "113288 KiB",
+            "cost": 20
+        },
+        "unweighted/xai-mindset2/new-thyroid.wcnf.xz": {
+            "status": true,
+            "rtime": 6.33751,
+            "mempeak": "424744 KiB",
+            "cost": 126
+        },
+        "unweighted/xai-mindset2/hepatitis.wcnf.xz": {
+            "status": true,
+            "rtime": 162.389,
+            "mempeak": "446320 KiB",
+            "cost": 58
+        }
+    }
+}
